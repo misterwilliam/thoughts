@@ -50,12 +50,22 @@ recognize that we and others may get too caught up in the emotions.
 
 ## 5 Moral Considerations
 
+If we say that morals are just opinions, it can cause morals to lose their
+grounding. Opinions have an abitrary nature. Why we should consider one person's
+opinion better than another's? However if we specify that morals are opinions on
+the best way to organize society, this gives these opinions a lot more
+grounding. It seems much more clear that we can evaluate these opinions. I have
+5 considerations that I like to use. I would expect that nearly everyone would
+want to adopt all or nearly all of them. However the idea is not to layout what
+all the considerations should be, but to give you a starting reference point to
+choose your own.
+
 1. Alignment with reality
 
 Every moral framework implicitly has assumptions on the underlying nature of
 reality. This could be that there is a god or that there is not a god. It could
 be that assumption is capitalism is an efficient means of deciding the
-distribution of goods. It could be that that emotional experience has primacy
+distribution of goods. It could be that that emotional experiences have primacy
 over the physical reality. A successful method of organizing society needs to be
 aligned with reality. Describing the underlying assumed reality of a moral
 framework may not be a primary consideration but it is a necessary
