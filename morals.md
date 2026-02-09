@@ -82,11 +82,11 @@ describing how to achieve the optimization of those factors.
 
 3. Fair exchange
 
-Become a member It is not sufficient to just consider collective welfare. It is
-also necessary to consider fairness when people interact with each other. Once
-again what is fair is not a concept with a shared universal understanding. How
-the concept of fairness is defined is a key consideration as well as describing
-how to achieve fair interactions between people.
+It is not sufficient to just consider collective welfare. It is also necessary
+to consider fairness when people interact with each other. Once again what is
+fair is not a concept with a shared universal understanding. How the concept of
+fairness is defined is a key consideration as well as describing how to achieve
+fair interactions between people.
 
 4. Respecting individual will
 
