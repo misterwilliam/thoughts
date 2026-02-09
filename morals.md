@@ -42,7 +42,12 @@ complicated for any one person to discover. We still need to function as a
 society. The most practical solution is to try come to come to a shared
 collective answer.
 
-**Morals can be a civil discussion topic even when people disagree.** This is probably a familiar goal. However I believe my framing helps give a perspective on how to manage our own emotions and approach the topic in a civil way. Nobody knows what the best way to organize society is. The topic is just too complicated. However it is a topic everyone feels strongly about. So we should recognize that we and others may get too caught up in the emotions.
+**Morals can be a civil discussion topic even when people disagree.** This is
+probably a familiar goal. However I believe my framing helps give a perspective
+on how to manage our own emotions and approach the topic in a civil way. Nobody
+knows what the best way to organize society is. The topic is just too
+complicated. However it is a topic everyone feels strongly about. So we should
+recognize that we and others may get too caught up in the emotions.
 
 ## 5 Moral Considerations
 
