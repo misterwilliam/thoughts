@@ -1,15 +1,17 @@
 # Morals
 
 Morals are people’s (strongly felt) opinions about the best way to organize
-society.
+society. By this I mean that morals are not objective truths that are part of
+the nature of the universe. They are just opinions. However they are strongly
+felt opinions. And because they are strongly felt opinions on the best way to
+organize society, we all feel extremely vested in whether other people do or
+don't follow our morals.
 
-It sounds like a simple sounding definition, but this has implications that may
-fundamentally change your morals. In contrast with popular thinking, morals are
-too complicated to be distilled into simple rules. Partially this is because
-they are about people’s feelings and opinions, and those are by nature
-complicated. But even if humanity adopted strict rationality, morals are about
-the best way to organize society and that is a complicated problem which
-requires a complicated solution.
+In contrast with popular thinking, morals are too complicated to be distilled
+into simple rules. Partially this is because they are about people’s feelings
+and opinions, and those are by nature complicated. But even if humanity adopted
+strict rationality, morals are about the best way to organize society and that
+is a complicated problem which requires a complicated solution.
 
 **Morals are emotional.** The dividing line between moral and non-moral opinions
 on how to organize society is how strongly people (emotionally) feel about the
@@ -51,13 +53,13 @@ describe them, and then I will explain their selection.
 
 1. Alignment with reality
 
-Every moral framework implicitly has assumptions on the
-underlying nature of reality. This could be that there is a god or that there is
-not a god. It could be that assumption is capitalism is an efficient means of
-deciding the distribution of goods. It could be that that emotional experience
-has primacy over the physical reality. A successful method of organizing society
-needs to be aligned with reality. Describing the underlying assumed reality of a
-moral framework may not be a primary consideration but it is a necessary
+Every moral framework implicitly has assumptions on the underlying nature of
+reality. This could be that there is a god or that there is not a god. It could
+be that assumption is capitalism is an efficient means of deciding the
+distribution of goods. It could be that that emotional experience has primacy
+over the physical reality. A successful method of organizing society needs to be
+aligned with reality. Describing the underlying assumed reality of a moral
+framework may not be a primary consideration but it is a necessary
 consideration. When a moral framework is not tied to some theory on the nature
 of reality it tends to become unclear what motivates its moral rules.
 
