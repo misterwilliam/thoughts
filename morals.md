@@ -7,25 +7,23 @@ felt opinions. And because they are strongly felt opinions on the best way to
 organize society, we all feel extremely vested in whether other people do or
 don't follow our morals.
 
-In contrast with popular thinking, morals are too complicated to be distilled
-into simple rules. Partially this is because they are about people’s feelings
-and opinions, and those are by nature complicated. But even if humanity adopted
-strict rationality, morals are about the best way to organize society and that
-is a complicated problem which requires a complicated solution.
+This idea may seem unusal so let me introduce this philosophy by stating some
+ideas that may distinguish it from moral philosophies that you maybe familiar
+with.
 
 **Morals are emotional.** The dividing line between moral and non-moral opinions
 on how to organize society is how strongly people (emotionally) feel about the
-topic. If the distinction between a presidential democracy and parliamentary is
-something that you feel strongly about, it becomes a moral topic for you.
-Otherwise it is just a preference. Therefore the distinction is arbitrary. On
-the other hand, the reason people get so upset when they see their moral
-framework violated is because they feel upset about the anticipated outcomes. If
-we had followed their moral code, we would have gotten what they perceive as the
-best possible outcomes because their moral code is their opinion of the best way
-to organize society. Instead we are getting suboptimal outcomes. How much worse
-these outcomes are perceived to be decides how upset the person will be. This
-moral outrage is why morals feel so weighty. We want other people to adopt our
-moral framework, and we feel (emotionally) quite strongly about this.
+topic. If the distinction between a presidential and parliamentary democracy is
+something that you feel strongly about, it is a moral topic for you. Otherwise
+it is just a preference. Therefore the distinction is arbitrary. On the other
+hand, the reason people get so upset when they see their moral framework
+violated is because they feel upset about the anticipated outcomes. If we had
+followed their moral code, we would have gotten what they perceive as the best
+possible outcomes according to their moral code. Instead we are getting
+suboptimal outcomes. How much worse these outcomes are perceived to be decides
+how upset the person will be. This moral outrage is why morals feel so weighty.
+We want other people to adopt our moral framework, and we feel (emotionally)
+quite strongly about this.
 
 **Morals are complicated and unknown.** Morality is the topic of how to organize
 society and unfortunately that topic is too vast for anyone to claim to have all
@@ -40,14 +38,11 @@ anything depends on the consequences. The consequences depend on the situation.
 The situation dictates the possible options. The options have tradeoffs.
 
 **Morals are a societal project.** While the best way to organize society is too
-complicated to distill into a small number of principles that describe what
-should done, we can organize how to approach this problem into 5 considerations.
-How we answer these considerations decide the foundations for morality. These
-questions are subjective and we should approach trying to come to a shared
-collective answer as a societal project for all humanity. Although they may seem
-like an arbitrary hodgepodge at first, these 5 considerations flow logically
-from trying to design an organizational framework for society. Lets first
-describe them, and then I will explain their selection.
+complicated for any one person to discover. We still need to function as a
+society. The most practical solution is to try come to come to a shared
+collective answer.
+
+**Morals can be a civil discussion topic even when people disagree.** This is probably a familiar goal. However I believe my framing helps give a perspective on how to manage our own emotions and approach the topic in a civil way. Nobody knows what the best way to organize society is. The topic is just too complicated. However it is a topic everyone feels strongly about. So we should recognize that we and others may get too caught up in the emotions.
 
 ## 5 Moral Considerations
 
