@@ -8,7 +8,7 @@ organize society, we all feel extremely vested in whether other people do or
 don't follow our morals.
 
 This idea may seem unusal so let me introduce this philosophy by stating some
-ideas that may distinguish it from moral philosophies that you maybe familiar
+ideas that may distinguish it from moral philosophies that you may be familiar
 with.
 
 **Morals are emotional.** The dividing line between moral and non-moral opinions
@@ -39,8 +39,7 @@ The situation dictates the possible options. The options have tradeoffs.
 
 **Morals are a societal project.** While the best way to organize society is too
 complicated for any one person to discover. We still need to function as a
-society. The most practical solution is to try come to come to a shared
-collective answer.
+society. The most practical solution is to seek a shared collective answer.
 
 **Morals can be a civil discussion topic even when people disagree.** This is
 probably a familiar goal. However I believe my framing helps give a perspective
