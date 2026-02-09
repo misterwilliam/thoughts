@@ -7,7 +7,7 @@ felt opinions. And because they are strongly felt opinions on the best way to
 organize society, we all feel extremely vested in whether other people do or
 don't follow our morals.
 
-This idea may seem unusal so let me introduce this philosophy by stating some
+This idea may seem unusual so let me introduce this philosophy by stating some
 ideas that may distinguish it from moral philosophies that you may be familiar
 with.
 
@@ -51,14 +51,14 @@ recognize that we and others may get too caught up in the emotions.
 ## 5 Moral Considerations
 
 If we say that morals are just opinions, it can cause morals to lose their
-grounding. Opinions have an abitrary nature. Why we should consider one person's
-opinion better than another's? However if we specify that morals are opinions on
-the best way to organize society, this gives these opinions a lot more
-grounding. It seems much more clear that we can evaluate these opinions. I have
-5 considerations that I like to use. I would expect that nearly everyone would
-want to adopt all or nearly all of them. However the idea is not to layout what
-all the considerations should be, but to give you a starting reference point to
-choose your own.
+grounding. Opinions have an arbitrary nature. Why should we consider one
+person's opinion better than another's? However if we specify that morals are
+opinions on the best way to organize society, this gives these opinions a lot
+more grounding. It seems much more clear that we can evaluate these opinions. I
+have 5 considerations that I like to use. I would expect that nearly everyone
+would want to adopt all or nearly all of them. However the idea is not to layout
+what all the considerations should be, but to give you a starting reference
+point to choose your own.
 
 1. Alignment with reality
 
