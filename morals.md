@@ -78,20 +78,20 @@ primary consideration but it is a necessary consideration. When a moral
 framework is not tied to some theory on the nature of reality it is unclear what
 motivates its moral rules.
 
-The underlying assumptions of a method of organizing society can deviate from
-reality and still remain successful to a degree. I include the true nature of
-how economies function within the category of "alignment with reality". In
-modern political discourse there are a strongly felt discussions on how to
-organize society (and therefore moral discussion) that rely on assumptions on
-how the economy truly functions. We are still in the process of understanding
-the true nature of reality, and I see many open questions such as the true
-nature of how the human consciouness behaves or how the economy functions as
-being relevant to moral discussions. That is all to say that I don't think we
-should view alignment with reality as a binary category. All moral systems will
-have some misalignments with reality as you make the concrete enough to be
-applied in all the situations of life. Therefore the nature of the deviation
-from reality and how devastating it is to a coherent interpretation of the moral
-system is the relevant discussion.
+The underlying assumptions of a method to organize society can deviate from
+reality and still remain successful to a degree. All moral systems will have
+some misalignments with reality when expressed in a detailed enough manner to be
+applied in all the situations of life. We should not view alignment with reality
+as a binary category. The nature of the deviation from reality and how
+devastating it is to a coherent interpretation of the moral system is the
+relevant discussion.
+
+For example, I include the true nature of how economies function within the
+category of "alignment with reality". In modern political discourse there are a
+strongly felt discussions on how to organize society that rely on assumptions on
+how the economy truly functions. This would be an example where it makes sense
+to evaluate how much the assumptions deviate from reality, and how much it
+undermines the moral frameowrk.
 
 2. Maximizing welfare and minimizing suffering
 
