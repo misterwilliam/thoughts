@@ -104,17 +104,25 @@ describing how to achieve the optimization of those factors.
 3. Fair exchange
 
 It is not sufficient to just consider collective welfare. It is also necessary
-to consider fairness when people interact with each other. Once again what is
-fair is not a concept with a shared universal understanding. How the concept of
-fairness is defined is a key consideration as well as describing how to achieve
-fair interactions between people.
+to consider fairness when people interact with each other. No one can be certain
+of being in a position of dominance in the future, and especially also not all
+of their loved ones. No matter how powerful one is, they will want some
+guarantee that in the future as their health declines they will be treated with
+fairness, as well as their offspring which presumably are their loved ones.
+
+Once again what is fair is not a concept with a shared universal understanding.
+How the concept of fairness is defined is a key consideration as well as
+describing how to achieve fair interactions between people.
 
 4. Respecting individual will
 
 People may accept that there is a broader collective good, but at the same time
 they still desire independence. I view this as a consequence of human nature. If
-human's did not care about their individuality and behaved more like ants there
-would be no need to consider individuality.
+humans did not care about their individuality and behaved more like ants there
+would be no need to consider individuality. No matter how self-sacrificing an
+individual is, everyone wants their individual will respected. The mere
+recognition of the concept of self-sacrifice betrays the innate desire for
+individuality.
 
 5. An explanation for why we should value one another
 
@@ -122,7 +130,7 @@ This consideration adds social cohesion to any moral framework. Without this
 consideration social structures are inherently fragile because the rationale for
 not harming one another becomes weak.
 
-Iit is an essential consideration because without this consideration all human
+It is an essential consideration because without this consideration all human
 interaction risks be understood in transactional means. Even if we take
 consideration 4 (respect of individuality), we can treat one another
 transactionally. Without an explanation why we should value one another, then it
