@@ -112,52 +112,22 @@ fair interactions between people.
 4. Respecting individual will
 
 People may accept that there is a broader collective good, but at the same time
-they still desire independence. How the social structure allows for individual
-will while maintaining the other considerations is a key question when
-evaluating any moral framework.
+they still desire independence. I view this as a consequence of human nature. If
+human's did not care about their individuality and behaved more like ants there
+would be no need to consider individuality.
 
 5. An explanation for why we should value one another
 
 This consideration adds social cohesion to any moral framework. Without this
 consideration social structures are inherently fragile because the rationale for
-not harming one another becomes weak. This consideration is the most under
-appreciated in modern discourse.
+not harming one another becomes weak.
 
-The 5 considerations that I have presented do not clearly define a particular
-moral perspective because they (purposefully) rely on several concepts which do
-not have a clear definition. What is the nature of reality? What is the nature
-of welfare and suffering? What is fairness? How should we balance allowing for
-individuality versus other considerations? Why should we value each other? These
-are the core questions that we collectively need to answer.
-
-The considerations that I selected may seem like an arbitrary hodgepodge but
-there is a rationale for their selection. Morality is about how to organize
-society. How we organize society is of critical importance because as an
-organized collective, people can achieve significantly better outcomes than
-relying on ad-hoc interactions. Therefore moral frameworks are in competition
-with one another in demonstrating their capability of achieving positive
-outcomes. Considerations 1 and 2 (alignment with reality, and maximizing welfare
-and minimizing suffering) are fairly straightforward considerations that arise
-more or less directly from the definition of attempting to construct a system
-that achieves good outcomes. Consideration 3 (fair exchange), logically arises
-from the reality that no one can be certain of being in a position of dominance
-in the future, and especially also not all of their loved ones. No matter how
-powerful one is, they will want some guarantee that in the future as their
-health declines they will be treated with fairness, as well as their offspring
-which presumably are their loved ones. Consideration 4 (respecting individual
-will) is the logical consequence of human nature. No matter how self-sacrificing
-an individual is, everyone wants their individual will respected. The mere
-recognition of the concept of self-sacrifice betrays the innate desire for
-individuality. Consideration 5 (an explanation for why we should value one
-another) deserves it’s own discussion.
-
-Out of all the considerations, consideration 5 may seem the most out of the
-place however it is an essential consideration because without this
-consideration all human interaction risks be understood in transactional means.
-Even if we take consideration 4 (respect of individuality), we can treat one
-another transactionally. Without an explanation why we should value one another,
-then it is unclear why we should not destroy one another. One might think that
-valuing one another would be a logical consequence of requirement 4 (respecting
+Iit is an essential consideration because without this consideration all human
+interaction risks be understood in transactional means. Even if we take
+consideration 4 (respect of individuality), we can treat one another
+transactionally. Without an explanation why we should value one another, then it
+is unclear why we should not destroy one another. One might think that valuing
+one another would be a logical consequence of requirement 4 (respecting
 individual will) combines with other requirements such as 2 (maximizing welfare
 and minimizing suffering), however Western liberal capitalism highly values
 individuality and has empirically be shown to be quite effective at maximizing
@@ -173,9 +143,45 @@ becomes unclear why society should subsidize the welfare of economically
 unproductive individuals such as the mentally unstable beyond allowing for them
 to live, and the liberty to pursue opioid addiction.
 
-It is because that Western liberal capitalism argues strongly for my
-requirements 1–4, but offers no argument for 5 (why we should value one another)
-that I view it as a separate requirement.
+It is because that Western liberal capitalism argues strongly for categories
+1–4, but offers no argument for why we should value one another that I view it
+as a separate category.
+
+## Why these categories
+
+One one hand, these categories are merely categories, and if you would prefer to
+organize moral arguments by with different category system that does not
+contradict what I am proposing. One the other hand, I have stated that each
+category represents a desirable trait for any moral framework. Therefore if
+someone where to claim that these desirable traits were not desirable or just
+merely marginally relevant to moral discussions that would represent a challenge
+to my argument. Therefore it would make sense for me to argue that each category
+is indeed a desirable trait.
+
+While I do feel that I can argue for each category being desirable, I do also
+feel that they are largely self-evident. Therefore I am happy enough to just
+treat them as assumptions, and if you feel that any category does not represent
+a desirable trait then we just fundamentally have different perspectives and I
+am not sure what I can say to persuade you.
+
+On the other hand, there is a context in which I would be interested in arguing
+that these categories genuinely represent desirable traits and not merely just
+assumptions. If we consider a future hyper-intelligent AI that it seems that we
+are on the path to building, I am interested in the question of whether we
+should expect that this AI would consider my 5 categories as representing
+desirable traits. If we should expect the hyper-intelligent future AI to view
+these categories as desirable traits then we can feel confident that these
+future AIs will view moral issues in a similar way that we do at least at a
+fundamental level. That deserves it's own essay which unfortunately I have not
+yet written.
+
+Also my 5 categories are somewhat described in a human centric way. To keep the
+description simpler I have written everything as humans were the only conscious
+entity. I do think that they should be extended to apply to any conscious
+entity. So they should be extended to apply to animals, aliens (if they exist),
+and conscious AI agents if we ever build them.
+
+## Whether morals are objective or subjective makes no difference in practice
 
 Morals are subjective not objective but it hardly makes a difference Because I
 have defined morals as people’s opinions, that means that morals are no longer
@@ -186,3 +192,12 @@ way to organize society, it hardly seems to matter whether morals are objective
 or subjective. When trying to decide what your morals should be, these
 considerations will cause you to select the more or less the same moral rules
 you would have chosen if you thought at morals were objective.
+
+## The societal project
+
+The 5 considerations that I have presented do not clearly define a particular
+moral perspective because they (purposefully) rely on several concepts which do
+not have a clear definition. What is the nature of reality? What is the nature
+of welfare and suffering? What is fairness? How should we balance allowing for
+individuality versus other considerations? Why should we value each other? These
+are the core questions that we collectively need to answer.
