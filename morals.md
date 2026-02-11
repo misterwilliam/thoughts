@@ -87,11 +87,11 @@ devastating it is to a coherent interpretation of the moral system is the
 relevant discussion.
 
 For example, I include the true nature of how economies function within the
-category of "alignment with reality". In modern political discourse there are a
+category of "alignment with reality". In modern political discourse there are
 strongly felt discussions on how to organize society that rely on assumptions on
 how the economy truly functions. This would be an example where it makes sense
 to evaluate how much the assumptions deviate from reality, and how much it
-undermines the moral frameowrk.
+undermines the moral framework.
 
 2. Maximizing welfare and minimizing suffering
 
