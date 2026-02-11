@@ -74,11 +74,12 @@ part of the nature of the universe.
 
 A successful method of organizing society needs to be aligned with reality.
 Describing the underlying assumed reality of a moral framework may not be a
-primary consideration but it is a necessary consideration. While the underlying
-assumptions of a method of organizing society can deviate from reality and still
-remain successful to a degree. These deviations limit the successfulness and an
-organizational system that aligns better will be judged superior all other
-considerations held constant.
+primary consideration but it is a necessary consideration. When a moral
+framework is not tied to some theory on the nature of reality it is unclear what
+motivates its moral rules. While the underlying assumptions of a method of
+organizing society can deviate from reality and still remain successful to a
+degree, these deviations make it hard to coherently understand the system when
+the underlying assumptions are exposed to be misalginged with reality.
 
 2. Maximizing welfare and minimizing suffering
 
