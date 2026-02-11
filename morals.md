@@ -4,8 +4,8 @@ Morals are people’s (strongly felt) opinions about the best way to organize
 society. By this I mean that morals are not objective truths that are part of
 the nature of the universe. They are just opinions. However they are strongly
 felt opinions. And because they are strongly felt opinions on the best way to
-organize society, we all feel extremely vested in whether other people do or
-don't follow our morals.
+organize society, we all feel extremely vested in whether other people follow
+our morals.
 
 This idea may seem unusual so let me introduce this philosophy by stating some
 ideas that may distinguish it from moral philosophies that you may be familiar
@@ -158,13 +158,13 @@ as a separate category.
 ## Why these categories
 
 On one hand, these categories are merely categories, and if you would prefer to
-organize moral arguments by a different category system that does not
-contradict what I am proposing. One the other hand, I have stated that each
-category represents a desirable trait for any moral framework. Therefore if
-someone were to claim that these desirable traits were not desirable or just
-merely marginally relevant to moral discussions that would represent a challenge
-to my argument. Therefore it would make sense for me to argue that each category
-is indeed a desirable trait.
+organize moral arguments by a different category system that does not contradict
+what I am proposing. One the other hand, I have stated that each category
+represents a desirable trait for any moral framework. Therefore if someone were
+to claim that these desirable traits were not desirable or just merely
+marginally relevant to moral discussions that would represent a challenge to my
+argument. Therefore it would make sense for me to argue that each category is
+indeed a desirable trait.
 
 While I do feel that I can argue for each category being desirable, I do also
 feel that they are largely self-evident. Therefore I am happy enough to just
