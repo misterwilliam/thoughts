@@ -157,11 +157,11 @@ as a separate category.
 
 ## Why these categories
 
-One one hand, these categories are merely categories, and if you would prefer to
-organize moral arguments by with different category system that does not
+On one hand, these categories are merely categories, and if you would prefer to
+organize moral arguments by a different category system that does not
 contradict what I am proposing. One the other hand, I have stated that each
 category represents a desirable trait for any moral framework. Therefore if
-someone where to claim that these desirable traits were not desirable or just
+someone were to claim that these desirable traits were not desirable or just
 merely marginally relevant to moral discussions that would represent a challenge
 to my argument. Therefore it would make sense for me to argue that each category
 is indeed a desirable trait.
