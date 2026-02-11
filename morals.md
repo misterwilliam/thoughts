@@ -54,11 +54,14 @@ If we say that morals are just opinions, it can cause morals to lose their
 grounding. Opinions have an arbitrary nature. Why should we consider one
 person's opinion better than another's? However if we specify that morals are
 opinions on the best way to organize society, this gives these opinions a lot
-more grounding. It seems much more clear that we can evaluate these opinions. I
-have 5 considerations that I like to use. I would expect that nearly everyone
-would want to adopt all or nearly all of them. However the idea is not to layout
-what all the considerations should be, but to give you a starting reference
-point to choose your own.
+more grounding. It seems much more obvious that we can evaluate these opinions
+because that is instinctively what we all do.
+
+I categorize all the arguments we instinctively reach for when evaluating any
+moral rule into 5 categories. I like this category system because I feel that
+each category represents a desirable trait, and it is fairly simple for the most
+part to understand why each trait is desirable without getting into complex
+philosophical arguments.
 
 1. Alignment with reality
 
@@ -66,11 +69,16 @@ Every moral framework implicitly has assumptions on the underlying nature of
 reality. This could be that there is a god or that there is not a god. It could
 be that assumption is capitalism is an efficient means of deciding the
 distribution of goods. It could be that that emotional experiences have primacy
-over the physical reality. A successful method of organizing society needs to be
-aligned with reality. Describing the underlying assumed reality of a moral
-framework may not be a primary consideration but it is a necessary
-consideration. When a moral framework is not tied to some theory on the nature
-of reality it tends to become unclear what motivates its moral rules.
+over the physical reality. It could be that morals are an objective fact and
+part of the nature of the universe.
+
+A successful method of organizing society needs to be aligned with reality.
+Describing the underlying assumed reality of a moral framework may not be a
+primary consideration but it is a necessary consideration. While the underlying
+assumptions of a method of organizing society can deviate from reality and still
+remain successful to a degree. These deviations limit the successfulness and an
+organizational system that aligns better will be judged superior all other
+considerations held constant.
 
 2. Maximizing welfare and minimizing suffering
 
