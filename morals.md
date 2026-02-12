@@ -189,17 +189,24 @@ entity. I do think that they should be extended to apply to any conscious
 entity. So they should be extended to apply to animals, aliens (if they exist),
 and conscious AI agents if we ever build them.
 
-## Whether morals are objective or subjective makes no difference in practice
+## Subjective moral vs objective morals in practice
 
-Morals are subjective not objective but it hardly makes a difference Because I
-have defined morals as people’s opinions, that means that morals are no longer
-an objective facts about the universe. They are now subjective. However since I
-have defined morals as opinions about the best way to organize society, and
-shown that certain considerations naturally arise when trying to design the best
-way to organize society, it hardly seems to matter whether morals are objective
-or subjective. When trying to decide what your morals should be, these
-considerations will cause you to select the more or less the same moral rules
-you would have chosen if you thought at morals were objective.
+I suspect that for most people, if they were to evaluate moral frameworks using
+the 5 considersations that I have described, they would come to a set of moral rules
+that are similar to moral rules that we see in objective moral frameworks. Therefore I would expect that if you were to adopt my
+definition of morality, it would change very little in your into your day to day
+practice of personal ethics. For a general tendency towards honesty is common in
+moral objective frameworks. In my subjective moral framework it is also present
+because works well with tryign to align with reality, maximize human welfare,
+promote fair interactions, respecting other's individual will, and valuing one another.
+
+However there is a distinction that I think is worth highlighting. An objective
+morality makes a strong distinction between right and wrong. The subjective
+morality is less clear and less certain about what is right and wrong. In my
+view, morality is trying to design an organizational structure for all of
+society. That is too complicated of a problem where it makes much sense to try
+to describe things in terms of right and wrong. It makes more sense to try to
+describe things in terms of probably better or probably worse.
 
 ## The societal project
 
