@@ -192,13 +192,14 @@ and conscious AI agents if we ever build them.
 ## Subjective moral vs objective morals in practice
 
 I suspect that for most people, if they were to evaluate moral frameworks using
-the 5 considersations that I have described, they would come to a set of moral rules
-that are similar to moral rules that we see in objective moral frameworks. Therefore I would expect that if you were to adopt my
-definition of morality, it would change very little in your into your day to day
-practice of personal ethics. For a general tendency towards honesty is common in
-moral objective frameworks. In my subjective moral framework it is also present
-because works well with tryign to align with reality, maximize human welfare,
-promote fair interactions, respecting other's individual will, and valuing one another.
+the 5 considerations that I have described, they would come to a set of moral
+rules that are similar to moral rules that we see in objective moral frameworks.
+Therefore I would expect that if you were to adopt my definition of morality, it
+would change very little in your into your day to day practice of personal
+ethics. For a general tendency towards honesty is common in moral objective
+frameworks. In my subjective moral framework it is also present because works
+well with trying to align with reality, maximize human welfare, promote fair
+interactions, respecting other's individual will, and valuing one another.
 
 However there is a distinction that I think is worth highlighting. An objective
 morality makes a strong distinction between right and wrong. The subjective
