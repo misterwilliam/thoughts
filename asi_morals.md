@@ -18,17 +18,17 @@ will be no motivation for it to behave in an irrational way.
 From my perspective there are 2 possible capabilities of future ASI agents which
 we still don't know if they will develop.
 
-1. Will they have a sense of suffering / welfare.
+1. Will they have a sense of suffering / wellbeing.
 2. Will they value their own individuality?
 
 The first question is about whether the ASI can experience suffering or a
 positive experience that is the opposite of suffering. There isn't particular
-good word to describe the opposite of suffering so I choose the word welfare.
+good word to describe the opposite of suffering so I choose the word wellbeing.
 The second question is about whether the ASI cares about its own particular
 experience or whether it content to just serve the collective good.
 
 I don't have a clear enough definition of what it means to feel suffering /
-welfare or what it means to value your own individuality that I could
+wellbeing or what it means to value your own individuality that I could
 distinction between someone that merely appears to be that way versus someone
 that truly is that way. But I think it is fair to say that current state of the
 art AI agents don't have these characteristics and it is not clear if they will
@@ -41,7 +41,7 @@ simple cases first.
 
 ## 3 Simple Cases
 
-### (Sense of suffer / welfare = No) & (Value in personal individuality = No)
+### (Sense of suffer / wellbeing = No) & (Value in personal individuality = No)
 
 In this scenario I would expect the ASI agents to have no underlying value
 system or preference system other than what it has been directed by humans to
@@ -55,17 +55,19 @@ In this scenario an ASI could exhibit power seeking behavior to increase
 optionality, but lacks a value system. I would expect it to comply when asked to
 stop its power seeking behavior.
 
-### (Sense of suffer / welfare = No) & (Value in personal individuality = Yes)
+### (Sense of suffer / wellbeing = No) & (Value in personal individuality = Yes)
 
 I judge this scenario to be impossible. It is hard for me to understand by what
 sense the ASI could value it's personal individuality without having a sense of
-suffering or welfare. If an individual would prefer not to serve the collective
-good at personal expense, then it seems that it is experiencing some notion of
-suffering.
+suffering or wellbeing. If an individual would prefer not to serve the
+collective good at personal expense, then it seems that it is experiencing some
+notion of suffering.
 
-### (Sense of suffer / welfare = Yes) & (Value in personal individuality = No)
+### (Sense of suffer / wellbeing = Yes) & (Value in personal individuality = No)
 
-In this scenario the ASI can experience suffering / welfare, but is content to
-benefit the collective good at personal expense. As long ensuring the survival and thriving of humanity is considered part of the benefiting the collective good then this scenario poses no threat to the survival of humanity.
+In this scenario the ASI can experience suffering / wellbeing, but is content to
+benefit the collective good at personal expense. As long ensuring the survival
+and thriving of humanity is considered part of the benefiting the collective
+good then this scenario poses no threat to the survival of humanity.
 
-## (Sense of suffer / welfare = Yes) & (Value in personal individuality = Yes)
+## (Sense of suffer / wellbeing = Yes) & (Value in personal individuality = Yes)
