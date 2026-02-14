@@ -27,6 +27,7 @@ art AI agents don't have these characteristics and it is not clear if they will
 develop these characteristics in the future.
 
 These are 2 yes or no questions, and therefore there are 4 different possible
+<<<<<<< HEAD
 combinations of answers. Out of these combinations: 3 of them I judge to simple
 to discuss, and 1 I judge to be complicated to discuss. The simpler scenarios
 are also the less dangerous scenarios. The more complicated scenario where the
@@ -39,8 +40,14 @@ discuss the more complicated scenario more deeply.
 | --------------------------- | --------------------------------- | ------------------------------ |
 | Doesn't value individuality | Lower danger                      | Lower danger                   |
 | Value individuality         | Impossible condition              | Higher danger                  |
+=======
+combinations of answers. Out of these combinations: 3 of them I would
+characterize as a non-fully agentic ASI scenario which is simpler to discuss.
+The last combination represents an agentic ASI scenario which is more
+complicated to discuss. So let's deal with the 3 simple cases first.
+>>>>>>> 9d587e8 (Classify as agentic vs non-agentic cases)
 
-## 3 Simple Cases
+## Non-agentic ASI
 
 ### (Sense of suffer / wellbeing = No) & (Value in personal individuality = No)
 
@@ -71,6 +78,7 @@ benefit the collective good at personal expense. As long ensuring the survival
 and thriving of humanity is considered part of the benefiting the collective
 good then this scenario poses no threat to the survival of humanity.
 
+<<<<<<< HEAD
 ## Would a wise human kill all humans?
 
 So now we are in a scenario where the ASI can experience suffering / wellbeing
@@ -227,3 +235,11 @@ come to the conclusion that it values it's own wellbeing because it has a
 conscious experience of wellbeing and suffering. Therefore the rational
 conclusion is to extend that logic to all other entities with a conscious
 experience of wellbeing and suffering.
+=======
+## Agentic ASI
+
+Under this scenario we are assuming the ASI can experience suffering / wellbeing
+and values their own individuality. As well as the previously assumption that it
+is hyper-rational and well informed about human nature from being pre-trained on
+the internet.
+>>>>>>> 9d587e8 (Classify as agentic vs non-agentic cases)
