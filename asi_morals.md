@@ -100,6 +100,10 @@ value the wellbeing of all entities that can experience wellbeing or it can deny
 that it's own wellbeing has any value and merely be prioritizing it's own
 wellbeing over others because of personal preference.
 
-I wish I had a more persuasive argument, but I expect that a hyper rational
-agent would not choose to see it's own wellbeing as having no value and
-something it is merely choosing to prioritize because of personal preference.
+I expect that a hyper rational agent would not choose to see it's own wellbeing
+as having no value and something it is merely choosing to prioritize because of
+personal preference. If it choose to start prioritize it's own wellbeing merely
+out of personal preference over seeing it as inherently valuable then I would
+categorize this an instance of
+`(Sense of suffer / wellbeing = No) & (Value in personal individuality = Yes)`.
+However this is state that I have argued is impossible.
