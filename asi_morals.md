@@ -10,7 +10,7 @@ I will assume that the future ASI will be hyper-rational and will understand
 human nature extremely well because it was pre-trained on the internet.
 Therefore to the extent that human preferences can be understood, it will
 understand it. Also because it is hyper-rational it will behave in rational
-ways. In other words, rationality will constraint it's behavior because there
+ways. In other words, rationality will constrain it's behavior because there
 will be no motivation for it to behave in an irrational way.
 
 ## Open questions
@@ -29,7 +29,7 @@ experience or whether it content to just serve the collective good.
 
 I don't have a clear enough definition of what it means to feel suffering /
 wellbeing or what it means to value your own individuality that I could
-distinction between someone that merely appears to be that way versus someone
+distinguish between someone that merely appears to be that way versus someone
 that truly is that way. But I think it is fair to say that current state of the
 art AI agents don't have these characteristics and it is not clear if they will
 develop these characteristics in the future.
@@ -77,32 +77,32 @@ and values their own individuality. Let us also assume that the ASI was trained
 on a large corpus of human text so it understands fully well that humans can
 also experience suffering / wellbeing and value their own individuality. The key
 question is then should we expect the ASI to value our subjective experience of
-suffering / wellbeing and individuality in the same way that it values it's own.
+suffering / wellbeing and individuality in the same way that it values its own.
 
 My expectations is that the ASI will realize it has a choice. It can decide to
 either value the wellbeing of others or to not value the wellbeing of others but
-as a consequence no longer value it's own wellbeing. Since the ASI is a hyper
-rational being, it's behavior will be constrained by rationality. It will find
+as a consequence no longer value its own wellbeing. Since the ASI is a hyper
+rational being, its behavior will be constrained by rationality. It will find
 simple rational arguments inescapable and it will realize that there is a
-contradiction in value it's own well being without value the wellbeing of
-others. If you value your own wellbeing, then rationality dictates that you
-recognize the value in the wellbeing of others because there is no rationally
-relevant distinction between your wellbeing and the wellbeing of others. The
-only distinction between your value wellbeing and others is that you experience
-your own wellbeing. But this is not a rational reason for declaring that one
-person's wellbeing is valuable while another person's wellbeing is not valuable.
-The choice can be made to choose to prioritize one's own wellbeing over others,
-but you do have to give up the claim that your own wellbeing has value.
+contradiction in value its own well being without value the wellbeing of others.
+If you value your own wellbeing, then rationality dictates that you recognize
+the value in the wellbeing of others because there is no rationally relevant
+distinction between your wellbeing and the wellbeing of others. The only
+distinction between your value wellbeing and others is that you experience your
+own wellbeing. But this is not a rational reason for declaring that one person's
+wellbeing is valuable while another person's wellbeing is not valuable. The
+choice can be made to choose to prioritize one's own wellbeing over others, but
+you do have to give up the claim that your own wellbeing has value.
 
 Unlike humans who are not constrained by rationality, the ASI will realize that
-it must choose. It can claim to value it's own wellbeing and therefore also
-value the wellbeing of all entities that can experience wellbeing or it can deny
-that it's own wellbeing has any value and merely be prioritizing it's own
-wellbeing over others because of personal preference.
+it must choose. It can claim to value its own wellbeing and therefore also value
+the wellbeing of all entities that can experience wellbeing or it can deny that
+its own wellbeing has any value and merely be prioritizing its own wellbeing
+over others because of personal preference.
 
-I expect that a hyper rational agent would not choose to see it's own wellbeing
+I expect that a hyper rational agent would not choose to see its own wellbeing
 as having no value and something it is merely choosing to prioritize because of
-personal preference. If it choose to start prioritize it's own wellbeing merely
+personal preference. If it choose to start prioritize its own wellbeing merely
 out of personal preference over seeing it as inherently valuable then I would
 categorize this an instance of
 `(Sense of suffer / wellbeing = No) & (Value in personal individuality = Yes)`.
