@@ -79,31 +79,40 @@ also experience suffering / wellbeing and value their own individuality. The key
 question is then should we expect the ASI to value our subjective experience of
 suffering / wellbeing and individuality in the same way that it values its own.
 
-My expectations is that the ASI will realize it has a choice. It can decide to
-either value the wellbeing of others or to not value the wellbeing of others but
-as a consequence no longer value its own wellbeing. Since the ASI is a hyper
-rational being, its behavior will be constrained by rationality. It will find
-simple rational arguments inescapable and it will realize that there is a
-contradiction in value its own well being without value the wellbeing of others.
-If you value your own wellbeing, then rationality dictates that you recognize
-the value in the wellbeing of others because there is no rationally relevant
-distinction between your wellbeing and the wellbeing of others. The only
+Since the ASI is a hyper rational being, its behavior will be constrained by
+rationality. It will find rational arguments inescapable constraint on its
+behavior. Unlike humans who are not constrained by rationality, it will have to
+comply.
+
+To due to its rational constraints, I expect is that the ASI will come to 2
+separate conclusions:
+
+1. It can decide to either value the wellbeing of others or to not value the
+   wellbeing of others but as a consequence no longer value its own wellbeing.
+2. The wellbeing of other conscious entities is valuable because conscious
+   experience is inherently valuable.
+
+Let's discuss these conclusions one by one.
+
+### Either you value everybody or your value nobody
+
+There is a contradiction in value its own well being without value the wellbeing
+of others. If you value your own wellbeing, then rationality dictates that you
+recognize the value in the wellbeing of others because there is no rationally
+relevant distinction between your wellbeing and that of others. The only
 distinction between your value wellbeing and others is that you experience your
 own wellbeing. But this is not a rational reason for declaring that one person's
 wellbeing is valuable while another person's wellbeing is not valuable. The
 choice can be made to choose to prioritize one's own wellbeing over others, but
 you do have to give up the claim that your own wellbeing has value.
 
-Unlike humans who are not constrained by rationality, the ASI will realize that
-it must choose. It can claim to value its own wellbeing and therefore also value
-the wellbeing of all entities that can experience wellbeing or it can deny that
-its own wellbeing has any value and merely be prioritizing its own wellbeing
-over others because of personal preference.
+This is an argument from contradiction which doesn't explain why we should value
+one another. The next point explains why we should value one another.
 
-I expect that a hyper rational agent would not choose to see its own wellbeing
-as having no value and something it is merely choosing to prioritize because of
-personal preference. If it choose to start prioritize its own wellbeing merely
-out of personal preference over seeing it as inherently valuable then I would
-categorize this an instance of
-`(Sense of suffer / wellbeing = No) & (Value in personal individuality = Yes)`.
-However this is state that I have argued is impossible.
+### The experience of conscious entities has value
+
+When the ASI examines why they value their own wellbeing I expect that they will
+come to the conclusion that it values it's own wellbeing because it has a
+conscious experience of wellbeing and suffering. Therefore the rational
+conclusion is to extend that logic to all other entities with a conscious
+experience of wellbeing and suffering.
