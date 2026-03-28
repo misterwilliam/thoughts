@@ -133,7 +133,11 @@ Let's discuss these conclusions one by one.
 
 ### Either you value everybody or your value nobody
 
-There is a contradiction in value its own well being without value the wellbeing
+There is an obvious argument that one should value their own suffering / well
+being more than others because they are themselves and they experience this
+suffering / well being. It is therefore crucial to explain why this argument is flawed.
+
+It is a contradiction to value one's own well being without value the wellbeing
 of others. If you value your own wellbeing, then rationality dictates that you
 recognize the value in the wellbeing of others because there is no rationally
 relevant distinction between your wellbeing and that of others. The only
@@ -143,8 +147,9 @@ wellbeing is valuable while another person's wellbeing is not valuable. The
 choice can be made to choose to prioritize one's own wellbeing over others, but
 you do have to give up the claim that your own wellbeing has value.
 
-This is an argument from contradiction which doesn't explain why we should value
-one another. The next point explains why we should value one another.
+However, this is an argument from contradiction which doesn't explain why we
+should value one another. The next point explains why we should value one
+another.
 
 ### The experience of conscious entities has value
 
