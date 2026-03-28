@@ -114,6 +114,34 @@ and value their own individuality. The key question is then should we expect the
 ASI to value our subjective experience of suffering / wellbeing and
 individuality in the same way that it values its own.
 
+### Basic characteristics of morals
+
+Let's observe that morals have some basic characteristics. Without these
+characteristics it no longer seems we are discussing morals. We would be
+discussing something else perhaps like preferences or personal decisions. If we
+are discussing morals, we are discussing at a minimum rules that apply to
+ourselves and others. This is not intended to be not a full definition of
+morality, but just a subset of the characteristics of morality relevant to our
+current topic. For a more in-depth discussion of my opinions on morals see [morals.md](morals.md).
+
+If we don't claim that morals apply to ourselves and others then it doesn't seem
+like we are discussing morals. If we claim it just applies to ourselves, but not
+others it sounds like we are discussing a personal preference. If we claim it
+just applies to others and not ourselves then it once again doesn't sound like
+we are discussing morals. It sounds like we are discussing our preferences for
+how others behave. There is nothing wrong with have opinions on non-moral
+topics. But they are opinions on non-moral topics.
+
+By saying that morals are rules, I mean to claim that there is an coherent
+principle that explains how the moral rules applies to various situations and
+various people (and ASI). If there is no coherent principle then it is hard to
+understand how you could claim to apply to yourself and others because there
+would be nothing to claim that applies to yourself and others.
+
+Therefore when it comes to moral claims we should expect that they apply to
+ourselves and others, and there is a coherent principle that explains how to
+apply them. Otherwise there is no moral claim, it is a non-moral claim.
+
 ### Consequences of rationality
 
 Since the ASI is a hyper rational being, its behavior will be constrained by
@@ -135,7 +163,8 @@ Let's discuss these conclusions one by one.
 
 There is an obvious argument that one should value their own suffering / well
 being more than others because they are themselves and they experience this
-suffering / well being. It is therefore crucial to explain why this argument is flawed.
+suffering / well being. It is therefore crucial to explain why this argument is
+flawed.
 
 It is a contradiction to value one's own well being without value the wellbeing
 of others. If you value your own wellbeing, then rationality dictates that you
