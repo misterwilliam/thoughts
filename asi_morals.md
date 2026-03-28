@@ -57,8 +57,8 @@ discuss the more complicated scenario more deeply.
 
 |                             | No sense of suffering / wellbeing | Sense of suffering / wellbeing |
 | --------------------------- | --------------------------------- | ------------------------------ |
-| Doesn't value individuality | Lower danger                      | Impossible condition           |
-| Value individuality         | Lower danger                      | Higher danger                  |
+| Doesn't value individuality | Lower danger                      | Lower danger           |
+| Value individuality         | Impossible condition                      | Higher danger                  |
 
 ## 3 Simple Cases
 
