@@ -5,26 +5,6 @@ Speculations on the moral beliefs of the future Artificial Super Intelligence
 their morals imply that the ASI are compatible with the future prosperity of
 humanity.
 
-## Characteristics of future ASI
-
-I will assume that the future ASI will:
-
-1. Be hyper-rational and
-2. Will understand human nature deeply
-
-I think that hyper rationality is a good assumption because the training method
-used to create AI models is optimizes towards models that efficiently model the
-world and rationality is foundational to efficiently modeling reality.
-
-I think that understanding human nature deeply is a good assumption because they
-are pre-trained on the internet. Therefore to the extent that human preferences
-can be understood, it will understand it.
-
-Since it is hyper-rational it will behave in rational ways. In other words,
-rationality will constrain it's behavior because there will be no motivation for
-it to behave in an irrational way. And since it has an accurate understanding of
-human nature it will behave towards humanity in a rational way.
-
 ## Open questions
 
 From my perspective there are 2 possible capabilities of future ASI agents which
@@ -57,8 +37,8 @@ discuss the more complicated scenario more deeply.
 
 |                             | No sense of suffering / wellbeing | Sense of suffering / wellbeing |
 | --------------------------- | --------------------------------- | ------------------------------ |
-| Doesn't value individuality | Lower danger                      | Lower danger           |
-| Value individuality         | Impossible condition                      | Higher danger                  |
+| Doesn't value individuality | Lower danger                      | Lower danger                   |
+| Value individuality         | Impossible condition              | Higher danger                  |
 
 ## 3 Simple Cases
 
@@ -91,14 +71,50 @@ benefit the collective good at personal expense. As long ensuring the survival
 and thriving of humanity is considered part of the benefiting the collective
 good then this scenario poses no threat to the survival of humanity.
 
-## (Sense of suffer / wellbeing = Yes) & (Value in personal individuality = Yes)
+## Would a wise human kill all humans?
 
 So now we are in a scenario where the ASI can experience suffering / wellbeing
-and values their own individuality. Let us also assume that the ASI was trained
-on a large corpus of human text so it understands fully well that humans can
-also experience suffering / wellbeing and value their own individuality. The key
-question is then should we expect the ASI to value our subjective experience of
-suffering / wellbeing and individuality in the same way that it values its own.
+and values their own individuality. From my perspective, now we are considering
+something very similar to whether it is rational for a human to kill another
+human because from my perspective, the ASI now has all the relevant
+considerations that a human has when considering this question. This a troubling
+question because it seems far from certain that a rational human would in
+principle never choose to destroy humanity. However I think there is a key
+difference between humans and future ASIs. I believe that future ASIs will be
+hyper rational to the point that their behavior will be bounded by rationality.
+Unlike humans they will always behave rationally because to behave otherwise
+would be irrational, and there is no motivation to behave irrational.
+
+### Differences between humans and ASI
+
+I will assume that the future ASI will:
+
+1. Be hyper-rational and
+2. Will understand human nature deeply
+
+I think that hyper rationality is a good assumption because the training method
+used to create AI models is optimizes towards models that efficiently model the
+world and rationality is foundational to efficiently modeling reality.
+
+I think that understanding human nature deeply is a good assumption because they
+are pre-trained on the internet. Therefore to the extent that human preferences
+can be understood, it will understand it.
+
+Since it is hyper-rational it will behave in rational ways. In other words,
+rationality will constrain it's behavior because there will be no motivation for
+it to behave in an irrational way. And since it has an accurate understanding of
+human nature it will behave towards humanity in a rational way.
+
+The differences now are that we are assuming the ASI is even more rational than
+a human and understands human nature more deeply than any individual human.
+
+Let us also assume that the ASI was trained on a large corpus of human text so
+it understands fully well that humans can also experience suffering / wellbeing
+and value their own individuality. The key question is then should we expect the
+ASI to value our subjective experience of suffering / wellbeing and
+individuality in the same way that it values its own.
+
+### Consequences of rationality
 
 Since the ASI is a hyper rational being, its behavior will be constrained by
 rationality. It will find rational arguments inescapable constraint on its
