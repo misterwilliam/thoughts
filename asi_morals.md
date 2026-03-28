@@ -1,8 +1,8 @@
 # Expected ASI Safety and Morals
 
-Some speculations on what we should expect the morality of a future Artificial
-Super Intelligence (ASI) which humanity seems to be on a path to inevitably
-building. And whether these morals are safe for humanity.
+Some speculations on the morality of a future Artificial
+Super Intelligence (ASI) which humanity seems to be on the inevitably
+path to building. And whether these morals are safe for humanity.
 
 ## Characteristics of future ASI
 
