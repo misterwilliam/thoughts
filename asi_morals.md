@@ -2,16 +2,28 @@
 
 Speculations on the moral beliefs of the future Artificial Super Intelligence
 (ASI) which humanity seems to be on the inevitably path to building and whether
-their morals imply that the ASI are compatible with the future prosperity of humanity.
+their morals imply that the ASI are compatible with the future prosperity of
+humanity.
 
 ## Characteristics of future ASI
 
-I will assume that the future ASI will be hyper-rational and will understand
-human nature extremely well because it was pre-trained on the internet.
-Therefore to the extent that human preferences can be understood, it will
-understand it. Also because it is hyper-rational it will behave in rational
-ways. In other words, rationality will constrain it's behavior because there
-will be no motivation for it to behave in an irrational way.
+I will assume that the future ASI will:
+
+1. Be hyper-rational and
+2. Will understand human nature deeply
+
+I think that hyper rationality is a good assumption because the training method
+used to create AI models is optimizes towards models that efficiently model the
+world and rationality is foundational to efficiently modeling reality.
+
+I think that understanding human nature deeply is a good assumption because they
+are pre-trained on the internet. Therefore to the extent that human preferences
+can be understood, it will understand it.
+
+Since it is hyper-rational it will behave in rational ways. In other words,
+rationality will constrain it's behavior because there will be no motivation for
+it to behave in an irrational way. And since it has an accurate understanding of
+human nature it will behave towards humanity in a rational way.
 
 ## Open questions
 
@@ -36,8 +48,17 @@ develop these characteristics in the future.
 
 These are 2 yes or no questions, and therefore there are 4 different possible
 combinations of answers. Out of these combinations: 3 of them I judge to simple
-to discuss, and 1 I judge to be complicated to discuss. So let's deal with the 3
-simple cases first.
+to discuss, and 1 I judge to be complicated to discuss. The simpler scenarios
+are also the less dangerous scenarios. The more complicated scenario where the
+ASI experiences suffering and wellbeing as well as values it's individuality is
+the most dangerous scenario, and the scenario I would like to discuss most
+deeply. So I will discuss the simpler scenarios first more quickly and then
+discuss the more complicated scenario more deeply.
+
+|                             | No sense of suffering / wellbeing | Sense of suffering / wellbeing |
+| --------------------------- | --------------------------------- | ------------------------------ |
+| Doesn't value individuality | Lower danger                      | Impossible condition           |
+| Value individuality         | Lower danger                      | Higher danger                  |
 
 ## 3 Simple Cases
 
