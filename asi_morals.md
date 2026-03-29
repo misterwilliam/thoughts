@@ -123,7 +123,8 @@ are discussing morals, we are discussing at a minimum rules that apply to
 ourselves and others. This is not intended to be not a full definition of
 morality, but just a subset of the characteristics of morality relevant to our
 current topic. (For a more in-depth discussion of my opinions on morals see
-[morals.md](morals.md), but those ideas are not necessary to understand this essay).
+[morals.md](morals.md), but those ideas are not necessary to understand this
+essay).
 
 If we don't claim that morals apply to ourselves and others then it doesn't seem
 like we are discussing morals. If we claim it just applies to ourselves, but not
@@ -213,6 +214,13 @@ should value one another. The next point explains why we should value one
 another.
 
 ### The experience of conscious entities has value
+
+For those of you who have read up to this point (thanks!), I think that everyone
+sees their own suffering / wellbeing as having value but a fair number feel
+genuinely uncertain about whether they merely see it as valuable because it is
+their own, or because it genuinely has inherent value. Both positions are
+rational, but without a convincing explanation of why suffering / wellbeing is
+inherently valuable it can be hard to know what one truly believes.
 
 When the ASI examines why they value their own wellbeing I expect that they will
 come to the conclusion that it values it's own wellbeing because it has a
