@@ -51,12 +51,9 @@ you are the one experiencing it then the plot lines of these movies should
 strike you as alien because the motivations of the people in the story should
 make no sense. Furthermore, you should find the whole experience of watching a
 movie to be a waste of time because you are watching the experience of someone
-else and not you. This is not meant as a water tight argument because a person
-who truly believes only their experience matters can choose to watch movies for
-any reason they want, and happen to understand the plot lines because they
-understand the behavior of other people. This is just meant to help you evaluate
-your own beliefs. The way you experience movies probably would make no sense if
-you truly believed only your experience matters.
+else and not you. This isn't meant as a proof, but as an aid to honest
+self-examination — the way most people actually experience narrative is hard to
+square with the view that only their own experience matters.
 
 We can take these elements and extend it to all other conscious entities. Since
 conscious entities have various degrees of ability to experience suffering,
