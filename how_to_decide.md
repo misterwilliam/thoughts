@@ -27,9 +27,13 @@ at least in a theoretical sense, from a practical sense, I do think each
 approach does have merit and deserves some place in our everyday decision
 making. On the other hand, the common decision making methods we use weren't
 chosen by humanity because they were practical compromises to deal with the
-cumbersome nature of using maximal expected utility. They were chosen from as a
-practical compromise driven by irrationalities and animal spirits of human
-nature.
+cumbersome nature of using maximal expected utility. They were chosen driven by
+irrationalities and animal spirits of human nature. In this appeal to our
+animals spirits there is a danger. They were not chosen from practical
+considerations but because they seduced us. While they do serve a role when
+considered from practical considerations, it is helpful to understand why these
+methods are seductive to avoid being overly seduced into overly apply these
+methods to our detriment.
 
 Therefore in each discussion of alternatives to maximal expected utility, there
 is a threefold agenda:
@@ -41,7 +45,16 @@ is a threefold agenda:
 
 In my mind, all of these 3 considerations are equally important angles of
 analysis. In each section, I will attempt to address each of these 3 angles of
-analysis, but perhaps not organize each section to address of those angles directly so that I can structure each section to more directly drive towards practical takeaways. However I do think for a critical reader, they should evaluate each section in terms of how well I have answered the above 3 questions.
+analysis, but perhaps not organize each section to address of those angles
+directly so that I can structure each section to more directly drive towards
+practical takeaways. However I do think for a critical reader, they should
+evaluate each section in terms of how well I have answered the above 3
+questions. Explaining how human nature seduces us to counter productive
+strategies would require endless description because human nature requires
+endless description, so I will limit my discussion on this topic to what I think
+are aspects of human nature most helpful to understand for the most people. My
+hope is that people will find my remarks helpful, and adapt it to help
+themselves.
 
 ## Risk adjusted analysis
 
