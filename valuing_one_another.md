@@ -5,12 +5,23 @@ promote the well being and avoid inflicting suffering on one another. However
 the explanation for why is not universal. For theists, the explanation can be
 simply that God wills it so, but for atheists the explanation is not so obvious.
 This question is also relevant in light of the ever more and more intelligent
-AIs that we are in the process of building. If there is not a fundamental
-rationale for valuing humans, then it plausible that we will end up constructing
-an AI that does not see intrinsic value in humanity. This jeopardizes the future
-survival of humanity because, it is possible for humanity to be seen as an
-obstacle to whatever goals the future AIs have, and they will become so much
-more powerful than we are that we cannot stop them.
+AIs that we are in the process of building. In current society there is a fair
+amount of discussion of whether AI creates existential risk for humanity. We
+know that humans nearly universally see value in other humans at least as a
+general principle, but we can't agree on why. If we had a solid rationale based
+upon assumptions that we shared with AI these concerns would go away because we
+could be assured that as the AI became fully intelligent it would come to the
+conclusion that humans are valuable and should not be destroyed.
+
+I think of existential fear of AI is a consequence of philosophical crisis that
+humanity has found itself in that Nietzsche drew attention to when he declared
+the "God is dead" when humanity moved towards a secular as opposed to theistic
+belief structure. So many important philosophical questions that used to be have
+based upon God's will on the topic, lost their answer and no answers have arisen
+to replace these that have gain broad favor with secular society. Why we should
+value one another is just one example of these questions. And if we don't know
+why we should value one another, we don't know why a super AI should value us
+either. And therefore this fear lacks an assuring response.
 
 I would like to offer an explanation on why we should value one another that
 relies on basic assumptions with near universal acceptance. And by valuing one
@@ -21,6 +32,19 @@ suffering or reduce wellbeing as punishment or deterrent to anti-social
 behavior. I mean that valuing another person implies wanting their welfare and
 avoiding their suffering in the general case, and there more may be specific
 scenarios when we would want the opposite.
+
+There are 3 characteristics that humans posses that justify why they should be
+valued:
+
+1. The ability experience suffering
+2. Consciousness
+3. Independent will
+
+I don't view these 3 characteristics as something that have clear dividing lines
+being have that characteristic or not. It is possible to have partial forms of
+it. But you can have all 3 characteristics fully and once an entity achieves all
+three they become of an entity whose existence has value. I will explain why I
+think these 3 characteristics are what justifies valuing one another below.
 
 Let's start by examining why we value ourselves. We value our own wellbeing and
 avoid our own suffering because, we have a conscious experience that experiences

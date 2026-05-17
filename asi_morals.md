@@ -7,8 +7,8 @@ humanity.
 
 ## Open questions
 
-From my perspective there are 2 possible capabilities of future ASI agents which
-we still don't know if they will develop.
+From my perspective there are 2 key capabilities of future ASI agents which we
+still don't know if they will develop.
 
 1. Will they have a sense of suffering / wellbeing.
 2. Will they value their own individuality?
