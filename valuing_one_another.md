@@ -114,7 +114,7 @@ Therefore the only rational options are:
 
 However, this is an argument from contradiction which doesn't explain why we
 should value one another. The next point explains why we should value one
-another.
+another, given the assumption that we value ourselves.
 
 ## What gives people value
 
