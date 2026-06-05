@@ -118,16 +118,18 @@ another.
 
 ## What gives people value
 
-I think we can all assume that we value ourselves. Let's now examine why we
-value ourselves. We value our own wellbeing and avoid our own suffering because,
-we can experiences the pain of suffering and the pleasure of wellbeing.
-Furthermore we are consciously aware of our experience, and an independent will
-desires to control what we experience in life.
+The reasons we should value others is the same reasons we value ourselves. The
+reasons why we value ourselves is tied up in our experiences of being ourselves.
+We think of decisions that bring us suffering or wellbeing as having moral
+weight because of how we experience the suffering and wellbeing. We can
+experiences the pain of suffering and the pleasure of wellbeing. We are
+consciously aware of our experience. We have an independent will that desires to
+avoid suffering and experience wellbeing.
 
 And we can use these 3 characteristics to see that we should value other humans
-as well. Since we believe that the experience of suffering, pleasure, desires,
-and life aspirations has inherent value than we can apply to this others since
-other people also experience these things.
+as well. We value ourselves because we are experiencers of suffering and
+wellbeing, and we know that other people are experiencers of suffering and
+wellbeing, so must value others as well.
 
 If you still feel confused about this point, consider the movies (or other
 narrative art forms) that you watch and your reaction to them. If you truly
