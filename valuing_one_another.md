@@ -13,6 +13,10 @@ the two logically consistent positions are:
 1. No humans are valuable (including yourself) or
 2. You are valuable and so are all other humans.
 
+Therefore there is an explanation that forces you to believe that all humans
+have value that assumes nothing but pure logic if have the added assumption you
+individually are valuable.
+
 Obviously that is a big claim which requires a good explanation. But before get
 into that I want to define some concepts. When I say that a human has value I
 mean that decisions impacting the welfare of humans are decision with moral
