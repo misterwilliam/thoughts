@@ -38,8 +38,8 @@ that we don't get lost in explanations of explanations.
   - I don't have anything particularly technical in mind when I use these terms
     I am just referring to the general idea that people can experience things
     that they either want or don't want to experience.
-  - Also there are degrees to
-    this so there are degrees to how desirable or undesirable an experience is.
+  - Also there are degrees to this so there are degrees to how desirable or
+    undesirable an experience is.
 - Conscious awareness
   - By this I mean the ability to be aware of what you are experiencing. In
     other words it is not just that you are can experience suffering or
@@ -49,12 +49,22 @@ that we don't get lost in explanations of explanations.
     a very painful experience that happens too quickly for a person to fully
     register. The body has registered the painful experience in its entirety but
     the consciousness has not.
+  - Again there are degrees of conscious awareness. For example a painful
+    experience may happen when we have lower degrees conscious awareness such as
+    in while in a coma, intoxicated, or while we were very young so the
+    conscious awareness was limited.
+- Independent will
+  - By this I mean the desire to control your own destiny. A person experience
+    pain, be consciously aware of it, and yet be ambivalent about whether this
+    happens to them or not.
+  - Independent will also has degrees. A person can have varying degrees of
+    wanting to exert influence on their destiny.
 
-Let's start by examining why we value ourselves. We value our own wellbeing and
-avoid our own suffering because, we have a conscious experience that experiences
-the pain of suffering and the pleasure of wellbeing. Furthermore we are capable
-of thinking, and these experiences suffering and pleasure form the foundations
-of our desires and life aspirations. It is this capability of experiencing
+Let's mow examine why we value ourselves. We value our own wellbeing and avoid
+our own suffering because, we have a conscious experience that experiences the
+pain of suffering and the pleasure of wellbeing. Furthermore we are capable of
+thinking, and these experiences suffering and pleasure form the foundations of
+our desires and life aspirations. It is this capability of experiencing
 suffering and pleasure, having desires, and life aspirations which is why we
 value ourselves.
 
