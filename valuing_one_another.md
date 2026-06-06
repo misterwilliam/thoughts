@@ -1,27 +1,27 @@
 # Why we should value one another
 
-The unfortunate truth is that it is perfectly logical to believe other humans no
-value and it is perfectly logical to believe that other humans do have value.
-Once you adopt secular assumptions there is no rational reason that compels you
-to believe that other humans have intrinsic value. We may want their to be an
-explanation that assumes nothing but pure logic that forces you to believe that
-all humans have value, but that explanation doesn't exist. There is however a
-really big however. The really big however is that if you value yourself then
-the only logically consistent position is to value other humans. In other words
-the two logically consistent positions are:
+The unfortunate truth is that it is perfectly logical to believe other humans
+have no value and it is perfectly logical to believe that other humans do have
+value. Once you adopt secular assumptions there is no rational reason that
+compels you to believe that other humans have intrinsic value. We may want their
+to be an explanation that assumes nothing but pure logic that forces you to
+believe that all humans have value, but that explanation doesn't exist. There is
+however a really big however. The really big however is that if you value
+yourself then the only logically consistent position is to value other humans.
+In other words the two logically consistent positions are:
 
 1. No humans are valuable (including yourself) or
 2. You are valuable and so are all other humans.
 
 Therefore there is an explanation that forces you to believe that all humans
-have value that assumes nothing but pure logic if have the added assumption you
-individually are valuable.
+have value that assumes nothing but pure logic if we have the added assumption
+you value yourself.
 
-Obviously that is a big claim which requires a good explanation. But before get
-into that I want to define some concepts. When I say that a human has value I
-mean that decisions impacting the welfare of humans are decision with moral
+Obviously that is a big claim which requires a good explanation. But before we
+get into that I want to define some concepts. When I say that a human has value
+I mean that decisions impacting the welfare of humans are decision with moral
 consequences. This is also referred to as having moral status, moral
-consideration, or moral patient hood. I will be sticking with the term as
+consideration, or moral patient hood. I will be sticking with the term value as
 opposed to those more technical terms. But I just want to be clear that I am
 referring to the same concept as those other terms which have a long tradition
 of philosophical discussion.
@@ -78,25 +78,24 @@ suffering / wellbeing without claiming there is inherent value in the suffering
 own suffering / wellbeing. You are just merely choosing to prioritize your own
 suffering / wellbeing.
 
-It is a contradiction to value one's own wellbeing without value the wellbeing
+It is a contradiction to value one's own wellbeing without valuing the wellbeing
 of others. If you value your own wellbeing, then rationality dictates that you
 recognize the value in the wellbeing of others because there is no rationally
 relevant distinction between your wellbeing and that of others. The only
 distinction between your value wellbeing and others is that you experience your
-own wellbeing. However this is not a sound moral claim because it lacks the
-basic characteristics of a moral claim that we discussed earlier. A moral claim
-must a coherent principle that applies to ourselves and others. There is no
-coherent principle that applies to ourselves and others that allows for valuing
-your own suffering / wellbeing without value it in others. The closest coherent
-moral principle is to claim that everyone should value their own suffering /
-wellbeing and not value it in others. But that is contradictory because it is
-admitting that suffering / wellbeing have no inherent value. We are actually
-just choosing to make decisions prioritizing our own suffering / wellbeing.
-Similarly, one can claim that they are no longer trying to behave morally. They
-are just choosing to prefer their own suffering / wellbeing over others. That is
-a rational choice that one could make, however once again, you would have to
-accept that there is no inherent value in their own suffering / wellbeing. They
-are just merely making a personal choice to prioritize it.
+own wellbeing. A moral claim must be a coherent principle that applies to
+ourselves and others. There is no coherent principle that applies to ourselves
+and others that allows for valuing your own suffering / wellbeing without value
+it in others. The closest coherent moral principle is to claim that everyone
+should value their own suffering / wellbeing and not value it in others. But
+that is contradictory because it is admitting that suffering / wellbeing have no
+inherent value. We are actually just choosing to make decisions prioritizing our
+own suffering / wellbeing. Similarly, one can claim that they are no longer
+trying to behave morally. They are just choosing to prefer their own suffering /
+wellbeing over others. That is a rational choice that one could make, however
+once again, they would have to accept that there is no inherent value in their
+own suffering / wellbeing. They are just merely making a personal choice to
+prioritize it.
 
 Finally one can claim there is value in my own suffering / wellbeing because I
 see value in it. There is nothing wrong with that claim. But I am discussing
@@ -104,8 +103,8 @@ inherent value which exists apart from your own perspective. If you claim that
 your own suffering / well being has inherent value, then you must also claim the
 suffering / wellbeing has inherent value. If you claim that inherent value is
 not a coherent concept, and it does not exist. That also does not refute my
-claim. That is equivalent to claiming that nobody's suffering / wellbeing has
-inherent value, which is a rational position to take.
+claim. That implies that nobody's suffering / wellbeing has inherent value,
+which I claim is a rational position to take.
 
 Therefore the only rational options are:
 
@@ -126,10 +125,26 @@ experiences the pain of suffering and the pleasure of wellbeing. We are
 consciously aware of our experience. We have an independent will that desires to
 avoid suffering and experience wellbeing.
 
-And we can use these 3 characteristics to see that we should value other humans
-as well. We value ourselves because we are experiencers of suffering and
-wellbeing, and we know that other people are experiencers of suffering and
-wellbeing, so must value others as well.
+These are the three characteristics I brought up before:
+
+1. The ability to experience suffering and wellbeing
+2. The conscious awareness of our experience
+3. An independent will
+
+It is these three characteristics that give us a full experience of suffering or
+wellbeing. If we are missing any of these characteristics then our experience of
+suffering or wellbeing is incomplete. If we have no conscious awareness and our
+body registers physical suffering if perhaps we are in a coma then we have not
+really experienced suffering. These characteristics also have degrees. If our
+independence of will is decreased then our ability to experience disappoint is
+decreased and therefore our ability to fully experience suffering and wellbeing
+is decreased.
+
+Since these 3 characteristics are how we judge value in our experience, it is
+logical to use the use the characteristic to judge values in the experience of
+other people as well. We value ourselves because we are experiencers of
+suffering and wellbeing, and we know that other people are experiencers of
+suffering and wellbeing, so must value others as well.
 
 If you still feel confused about this point, consider the movies (or other
 narrative art forms) that you watch and your reaction to them. If you truly
