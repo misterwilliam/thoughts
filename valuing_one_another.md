@@ -111,9 +111,19 @@ Therefore the only rational options are:
 1. No one's suffering / wellbeing is inherently valuable.
 2. Everyone's (including mine) suffering / wellbeing is inherently valuable.
 
-However, this is an argument from contradiction which doesn't explain why we
-should value one another. The next point explains why we should value one
-another, given the assumption that we value ourselves.
+This is an argument from contradiction that shows that if you believe that you
+have value, then the logical conclusion is that others also have value.
+Therefore people who only see value in themselves are being logically
+inconsistent. However, it is possible for a person to not be concerned about
+logical consistency. It is certainly true some people cannot be persuaded by
+logic.
+
+A weakness of arguments from contradiction is that they only explain why an idea
+is incorrect. They don't explain why an idea is correct. In other words, this
+argument explains why it is logically inconsistent to not value others if you
+value, but it still doesn't explain why we should value others. The next point
+explains why we should value one another, given the assumption that we value
+ourselves.
 
 ## What gives people value
 
