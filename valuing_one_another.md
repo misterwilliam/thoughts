@@ -127,6 +127,10 @@ ourselves.
 
 ## What gives people value
 
+TODO: Explain that conscious experience is the source value judgements because
+without consciousness there is no value judgements and concepts around suffering
+and wellbeing are just equivalent concepts to value judgement.
+
 The reasons we should value others is the same reasons we value ourselves. The
 reasons why we value ourselves is tied up in our experiences of being ourselves.
 We think of decisions that bring us suffering or wellbeing as having moral
