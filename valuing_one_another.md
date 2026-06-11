@@ -3,7 +3,7 @@
 The unfortunate truth is that it is perfectly logical to believe other humans
 have no value and it is perfectly logical to believe that other humans do have
 value. Once you adopt secular assumptions there is no rational reason that
-compels you to believe that other humans have intrinsic value. We may want their
+compels you to believe that other humans have intrinsic value. We may want there
 to be an explanation that assumes nothing but pure logic that forces you to
 believe that all humans have value, but that explanation doesn't exist. There is
 however a really big however. The really big however is that if you value
@@ -76,19 +76,22 @@ suffering / wellbeing without claiming there is inherent value in the suffering
 / wellbeing of others. If you claim there is no inherent value in the suffering
 / wellbeing of others, you must admit that there is no inherent value in your
 own suffering / wellbeing. You are just merely choosing to prioritize your own
-suffering / wellbeing.
+suffering / wellbeing. Furthermore I am also not claiming it is wrong to feel a
+higher moral obligation towards your own suffering / wellbeing or of those close
+to you. I am claiming it is irrational to claim that you or those close to you
+have a higher inherent worth than other people.
 
 It is a contradiction to value one's own wellbeing without valuing the wellbeing
 of others. If you value your own wellbeing, then rationality dictates that you
 recognize the value in the wellbeing of others because there is no rationally
 relevant distinction between your wellbeing and that of others. The only
-distinction between your value wellbeing and others is that you experience your
-own wellbeing. A moral claim must be a coherent principle that applies to
-ourselves and others. There is no coherent principle that applies to ourselves
-and others that allows for valuing your own suffering / wellbeing without value
-it in others. The closest coherent moral principle is to claim that everyone
-should value their own suffering / wellbeing and not value it in others. But
-that is contradictory because it is admitting that suffering / wellbeing have no
+distinction between your wellbeing and others is that you experience your own
+wellbeing. A moral claim must be a coherent principle that applies to ourselves
+and others. There is no coherent principle that applies to ourselves and others
+that allows for valuing your own suffering / wellbeing without value it in
+others. The closest coherent moral principle is to claim that everyone should
+value their own suffering / wellbeing and not value it in others. But that is
+contradictory because it is admitting that suffering / wellbeing have no
 inherent value. We are actually just choosing to make decisions prioritizing our
 own suffering / wellbeing. Similarly, one can claim that they are no longer
 trying to behave morally. They are just choosing to prefer their own suffering /
@@ -104,7 +107,13 @@ your own suffering / well being has inherent value, then you must also claim the
 suffering / wellbeing has inherent value. If you claim that inherent value is
 not a coherent concept, and it does not exist. That also does not refute my
 claim. That implies that nobody's suffering / wellbeing has inherent value,
-which I claim is a rational position to take.
+which I claim is a rational position to take. It is also fine to claim that you
+feel a stronger moral obligation to your own suffering / wellbeing or those who
+are close to. That is different from claiming that you or those who you are
+close to have a greater inherent value. Claiming that you or those close to you
+have higher inherent value is irrational whether you feel a higher moral
+obligation to prioritize the suffering / wellbeing of yourself of those close to
+you is a different question.
 
 Therefore the only rational options are:
 
@@ -150,15 +159,15 @@ wellbeing. If we are missing any of these characteristics then our experience of
 suffering or wellbeing is incomplete. If we have no conscious awareness and our
 body registers physical suffering if perhaps we are in a coma then we have not
 really experienced suffering. These characteristics also have degrees. If our
-independence of will is decreased then our ability to experience disappoint is
-decreased and therefore our ability to fully experience suffering and wellbeing
-is decreased.
+independence of will is decreased then our ability to experience disappointment
+is decreased and therefore our ability to fully experience suffering and
+wellbeing is decreased.
 
 Since these 3 characteristics are how we judge value in our experience, it is
-logical to use the use the characteristic to judge values in the experience of
-other people as well. We value ourselves because we are experiencers of
-suffering and wellbeing, and we know that other people are experiencers of
-suffering and wellbeing, so must value others as well.
+logical to use the characteristic to judge values in the experience of other
+people as well. We value ourselves because we are experiencers of suffering and
+wellbeing, and we know that other people are experiencers of suffering and
+wellbeing, so must value others as well.
 
 If you still feel confused about this point, consider the movies (or other
 narrative art forms) that you watch and your reaction to them. If you truly
