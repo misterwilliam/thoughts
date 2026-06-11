@@ -18,51 +18,13 @@ have value that assumes nothing but pure logic if we have the added assumption
 you value yourself.
 
 Obviously that is a big claim which requires a good explanation. But before we
-get into that I want to define some concepts. When I say that a human has value
-I mean that decisions impacting the welfare of humans are decision with moral
-consequences. This is also referred to as having moral status, moral
+get into that I want to explain what I mean that a human has value. When I say
+that I mean that decisions impacting the welfare of humans are decision with
+moral consequences. This is also referred to as having moral status, moral
 consideration, or moral patient hood. I will be sticking with the term value as
 opposed to those more technical terms. But I just want to be clear that I am
 referring to the same concept as those other terms which have a long tradition
 of philosophical discussion.
-
-Next I want to define some characteristics of humans that are critical to our
-discussion of why humans have value. So I will first define the concepts and
-then explain why having the fact that human have those characteristics leads us
-to valuing other humans. These characteristics are:
-
-1. The ability to experience suffering and wellbeing
-2. The conscious awareness of our experience
-3. An independent will
-
-Each of these deserve their own further explanation. I will try to be brief so
-that we don't get lost in explanations of explanations.
-
-- Suffering / Wellbeing
-  - I don't have anything particularly technical in mind when I use these terms
-    I am just referring to the general idea that people can experience things
-    that they either want or don't want to experience.
-  - Also there are degrees to this so there are degrees to how desirable or
-    undesirable an experience is.
-- Conscious awareness
-  - By this I mean the ability to be aware of what you are experiencing. In
-    other words it is not just that you are can experience suffering or
-    wellbeing, it is also being aware of you what are experience as well. The
-    distinction between experiencing something and being consciously aware of
-    experiencing something might make more sense if we consider the scenario of
-    a very painful experience that happens too quickly for a person to fully
-    register. The body has registered the painful experience in its entirety but
-    the consciousness has not.
-  - Again there are degrees of conscious awareness. For example a painful
-    experience may happen when we have lower degrees conscious awareness such as
-    in while in a coma, intoxicated, or while we were very young so the
-    conscious awareness was limited.
-- Independent will
-  - By this I mean the desire to control your own destiny. A person experience
-    pain, be consciously aware of it, and yet be ambivalent about whether this
-    happens to them or not.
-  - Independent will also has degrees. A person can have varying degrees of
-    wanting to exert influence on their destiny.
 
 ## Either you value everybody or you value nobody
 
@@ -136,14 +98,24 @@ ourselves.
 
 ## What gives people value
 
-TODO: Explain that conscious experience is the source value judgements because
-without consciousness there is no value judgements and concepts around suffering
+It is important to explain that I am not unconditionally claiming that all
+people have value. I am claiming that all people have value if you assume that
+you yourself have value. As I mentioned a the beginning I think a logically
+consistent position to take is to belief that nobody has value as long as you
+concede that you have no value. Therefore I need to start from assuming that you
+value yourself, and discuss why you value yourself.
+
+TODO: Explain that conscious experience is the source of value judgements because
+without consciousness there are no value judgements and concepts around suffering
 and wellbeing are just equivalent concepts to value judgement.
 
-The reasons we should value others is the same reasons we value ourselves. The
-reasons why we value ourselves is tied up in our experiences of being ourselves.
-We think of decisions that bring us suffering or wellbeing as having moral
-weight because of how we experience the suffering and wellbeing. We can
+TODO: Reformulate the following as value comes the ability to experience
+wellbeing / suffering, but there are degrees to being ability to have this
+experience based upon our level of conscious awareness and independent will.
+
+The reasons why we value ourselves is tied up in our experiences of being
+ourselves. We think of decisions that bring us suffering or wellbeing as having
+moral weight because of how we experience the suffering and wellbeing. We can
 experiences the pain of suffering and the pleasure of wellbeing. We are
 consciously aware of our experience. We have an independent will that desires to
 avoid suffering and experience wellbeing.
