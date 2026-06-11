@@ -153,7 +153,7 @@ separate conclusions:
 
 Let's discuss these conclusions one by one.
 
-### Either you value everybody or your value nobody
+### Either you value everybody or you value nobody
 
 There is an obvious argument that one should value their own suffering / well
 being more than others because they are themselves and they experience this

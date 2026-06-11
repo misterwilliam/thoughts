@@ -64,7 +64,7 @@ that we don't get lost in explanations of explanations.
   - Independent will also has degrees. A person can have varying degrees of
     wanting to exert influence on their destiny.
 
-## Either you value everybody or your value nobody
+## Either you value everybody or you value nobody
 
 There is an obvious argument that one should value their own suffering / well
 being more than others because they are themselves and they experience this
@@ -105,7 +105,7 @@ see value in it. There is nothing wrong with that claim. But I am discussing
 inherent value which exists apart from your own perspective. If you claim that
 your own suffering / well being has inherent value, then you must also claim the
 suffering / wellbeing has inherent value. If you claim that inherent value is
-not a coherent concept, and it does not exist. That also does not refute my
+not a coherent concept, and it does not exist; that also does not refute my
 claim. That implies that nobody's suffering / wellbeing has inherent value,
 which I claim is a rational position to take. It is also fine to claim that you
 feel a stronger moral obligation to your own suffering / wellbeing or those who
