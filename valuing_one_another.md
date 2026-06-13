@@ -98,61 +98,57 @@ ourselves.
 
 ## What gives people value
 
-It is important to explain that I am not unconditionally claiming that all
-people have value. I am claiming that all people have value if you assume that
-you yourself have value. As I mentioned a the beginning I think a logically
-consistent position to take is to belief that nobody has value as long as you
-concede that you have no value. Therefore I need to start from assuming that you
-value yourself, and discuss why you value yourself.
+We have value because we are experiencers of suffering and wellbeing in a full
+way. Not only can we experience suffering and wellbeing but we have an conscious
+awareness of this experience and an independent will with an aversion towards
+suffering and a desires towards wellbeing. These second two characteristics give
+our experience a fullness that allows for value judgments. These experiences are
+the sole source of value judgments in the universe and the sole source of value
+because without value judgments there is nothing to value.
 
-TODO: Explain that conscious experience is the source of value judgements because
-without consciousness there are no value judgements and concepts around suffering
-and wellbeing are just equivalent concepts to value judgement.
+It may seem a bit initially tedious but I think ultimately clarifying to
+carefully describe what I mean by being able to experience suffering / wellbeing
+in a fully way. To fully have the full experience you must
 
-TODO: Reformulate the following as value comes the ability to experience
-wellbeing / suffering, but there are degrees to being ability to have this
-experience based upon our level of conscious awareness and independent will.
+1. Be capable of experiencing suffering / wellbeing
+2. Have a conscious awareness of your experience and
+3. Have an independent will that has an aversion towards suffering and desires
+   towards wellbeing.
 
-The reasons why we value ourselves is tied up in our experiences of being
-ourselves. We think of decisions that bring us suffering or wellbeing as having
-moral weight because of how we experience the suffering and wellbeing. We can
+It is having all three of these characteristics that lead to having value
+judgments. If a person just physically experienced suffering / wellbeing but was
+in a sense like a zombie with no conscious awareness of their experience or no
+independent will that that prevented them from being apathetic towards their
+experience, we wouldn't consider there to be a value judgement.
+
+Just like experiences can vay in degrees of suffering / wellbeing, so to can
+levels of conscious awareness of an experience and levels of aversion or desires
+towards an experience. This means that the level of fullness of the experience
+can vary and therefore the level of moral weight can vary.
+
+My argument assumes you value yourself, and explains why you value yourself. The
+reasons why you value yourself is tied up in our experiences of being ourselves.
+We think of decisions that bring us suffering or wellbeing as having moral
+weight because of how we experience the suffering and wellbeing. We can
 experiences the pain of suffering and the pleasure of wellbeing. We are
 consciously aware of our experience. We have an independent will that desires to
-avoid suffering and experience wellbeing.
-
-These are the three characteristics I brought up before:
-
-1. The ability to experience suffering and wellbeing
-2. The conscious awareness of our experience
-3. An independent will
-
-It is these three characteristics that give us a full experience of suffering or
-wellbeing. If we are missing any of these characteristics then our experience of
-suffering or wellbeing is incomplete. If we have no conscious awareness and our
-body registers physical suffering if perhaps we are in a coma then we have not
-really experienced suffering. These characteristics also have degrees. If our
-independence of will is decreased then our ability to experience disappointment
-is decreased and therefore our ability to fully experience suffering and
-wellbeing is decreased.
-
-Since these 3 characteristics are how we judge value in our experience, it is
-logical to use the characteristic to judge values in the experience of other
-people as well. We value ourselves because we are experiencers of suffering and
-wellbeing, and we know that other people are experiencers of suffering and
-wellbeing, so must value others as well.
+avoid suffering and experience wellbeing. This is what leads to the value
+judgments you have about your own experiences. Therefore the fullness of your
+experience of suffering / wellbeing is what causes you to value yourself.
 
 If you still feel confused about this point, consider the movies (or other
 narrative art forms) that you watch and your reaction to them. If you truly
 believed that only your experience matters because you are the one experiencing
 it. Does your reaction to the plot of the story make any sense? You are
 entertaining yourself by watching a narrative of another person experiencing
-pleasure, pain, desires and life aspirations. And the protagonist of the story
-is inevitably placing valuing in the wellbeing, suffering, desires, and life
-aspirations of others. If you truly believe that your experiences matter because
-you are the one experiencing it then the plot lines of these movies should
-strike you as alien because the motivations of the people in the story should
-make no sense. Furthermore, you should find the whole experience of watching a
-movie to be a waste of time because you are watching the experience of someone
-else and not you. This isn't meant as a proof, but as an aid to honest
-self-examination — the way most people actually experience narrative is hard to
-square with the view that only their own experience matters.
+pleasure, pain, desires and life aspirations. This is an equivalent formulation
+that maps to the three characteristics I've outlined. And the protagonist of the
+story is inevitably placing valuing in the wellbeing, suffering, desires, and
+life aspirations of others. If you truly believe that your experiences matter
+because you are the one experiencing it then the plot lines of these movies
+should strike you as alien because the motivations of the people in the story
+should make no sense. Furthermore, you should find the whole experience of
+watching a movie to be a waste of time because you are watching the experience
+of someone else and not you. This isn't meant as a proof, but as an aid to
+honest self-examination — the way most people actually experience narrative is
+hard to square with the view that only their own experience matters.
