@@ -50,9 +50,9 @@ relevant distinction between your wellbeing and that of others. The only
 distinction between your wellbeing and others is that you experience your own
 wellbeing. A moral claim must be a coherent principle that applies to ourselves
 and others. There is no coherent principle that applies to ourselves and others
-that allows for valuing your own suffering / wellbeing without value it in
+that allows for valuing your own suffering / wellbeing without valuing it in
 others. The closest coherent moral principle is to claim that everyone should
-value their own suffering / wellbeing and not value it in others. But that is
+value their own suffering / wellbeing and not valuing it in others. But that is
 contradictory because it is admitting that suffering / wellbeing have no
 inherent value. We are actually just choosing to make decisions prioritizing our
 own suffering / wellbeing. Similarly, one can claim that they are no longer
@@ -121,7 +121,7 @@ in a sense like a zombie with no conscious awareness of their experience or no
 independent will that that prevented them from being apathetic towards their
 experience, we wouldn't consider there to be a value judgement.
 
-Just like experiences can vay in degrees of suffering / wellbeing, so to can
+Just like experiences can vary in degrees of suffering / wellbeing, so to can
 levels of conscious awareness of an experience and levels of aversion or desires
 towards an experience. This means that the level of fullness of the experience
 can vary and therefore the level of moral weight can vary.
