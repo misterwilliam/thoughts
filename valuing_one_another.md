@@ -98,7 +98,25 @@ ourselves.
 
 ## What gives people value
 
-We have value because we are experiencers of suffering and wellbeing in a full
+The argument I would like to make now is a strange one. As I've mentioned
+earlier we are starting from the assumption that you value yourself, and I've
+explained that that reasons you have for you valuing yourself must extend to
+other people, but I haven't explained what the reasons you value yourself are.
+I've just claimed no matter what those reasons are they must apply to others
+because there are no morally relevant distinctions between you and others. But
+now I want to actually go into what these reasons are. But I don't know you. So
+I am just going to claim I know the reasons why you value yourself and perhaps
+have not consciously realized, and I am going to describe it and hope it rings
+true.
+
+The reasons why we value ourselves is tied up in our experiences of being
+ourselves. We think of decisions that bring us suffering or wellbeing as having
+moral weight because of how we experience the suffering and wellbeing. We can
+experiences the pain of suffering and the pleasure of wellbeing. We are
+consciously aware of our experience. We have an independent will that desires to
+avoid suffering and experience wellbeing.
+
+In other words, we have value because we are experiencers of suffering and wellbeing in a full
 way. Not only can we experience suffering and wellbeing but we have an conscious
 awareness of this experience and an independent will with an aversion towards
 suffering and a desires towards wellbeing. These second two characteristics give
