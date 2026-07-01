@@ -96,7 +96,8 @@ is incorrect. They don't explain why an idea is correct. In other words, this
 argument explains why it is logically inconsistent to not value others if you
 value, but it still doesn't explain why we should value others. The next point
 explains why we should value one another, given the assumption that we value
-ourselves.
+ourselves. It will also explain why the degree to which we value one another can
+vary.
 
 ## What gives people value
 
