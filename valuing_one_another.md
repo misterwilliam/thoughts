@@ -11,7 +11,8 @@ yourself then the only logically consistent position is to value other humans.
 In other words the two logically consistent positions are:
 
 1. No humans are valuable (including yourself) or
-2. You are valuable and so are all other humans.
+2. You have value according to certain criteria, and those same criteria apply
+   to all other humans.
 
 Therefore there is an explanation that forces you to believe that all humans
 have value that assumes nothing but pure logic if we have the added assumption
@@ -80,7 +81,8 @@ you is a different question.
 Therefore the only rational options are:
 
 1. No one's suffering / wellbeing is inherently valuable.
-2. Everyone's (including mine) suffering / wellbeing is inherently valuable.
+2. Suffering / wellbeing is inherently valuable, and that applies to everyone's
+   — not just your own.
 
 This is an argument from contradiction that shows that if you believe that you
 have value, then the logical conclusion is that others also have value.
