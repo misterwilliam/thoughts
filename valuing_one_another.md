@@ -116,13 +116,13 @@ experiences the pain of suffering and the pleasure of wellbeing. We are
 consciously aware of our experience. We have an independent will that desires to
 avoid suffering and experience wellbeing.
 
-In other words, we have value because we are experiencers of suffering and wellbeing in a full
-way. Not only can we experience suffering and wellbeing but we have an conscious
-awareness of this experience and an independent will with an aversion towards
-suffering and a desires towards wellbeing. These second two characteristics give
-our experience a fullness that allows for value judgments. These experiences are
-the sole source of value judgments in the universe and the sole source of value
-because without value judgments there is nothing to value.
+In other words, we have value because we are experiencers of suffering and
+wellbeing in a full way. Not only can we experience suffering and wellbeing but
+we have an conscious awareness of this experience and an independent will with
+an aversion towards suffering and a desires towards wellbeing. These second two
+characteristics give our experience a fullness that allows for value judgments.
+These experiences are the sole source of value judgments in the universe and the
+sole source of value because without value judgments there is nothing to value.
 
 It may seem a bit initially tedious but I think ultimately clarifying to
 carefully describe what I mean by being able to experience suffering / wellbeing
