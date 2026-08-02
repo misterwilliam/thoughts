@@ -160,7 +160,7 @@ as a proof, but as an aid to honest self-examination — the way most people act
 experience narrative is hard to square with the view that only their own experience
 matters.
 
-## Experiencers besides people
+## Experiencers besides normative people
 
 Now that we understand that what makes people valuable are their ability to experience
 suffering / wellbeing, have a consciousness awareness of their experience, and have an
@@ -260,5 +260,5 @@ reproducibility. The random number generator uses a number called a "seed", and 
 same seed the random number generator always produces the same number. Therefore if you
 use the same seed and same input, a specific LLM always produces the same output. By that
 commonly held notion LLMs do not have free will. Currently there is no pushback on the
-deterministic nature of the random number generators used. It is more or less universally seen as best
-practice to improve scientific reproducibility.
+deterministic nature of the random number generators used. It is more or less universally
+seen as best practice to improve scientific reproducibility.
