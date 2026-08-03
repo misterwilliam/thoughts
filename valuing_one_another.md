@@ -263,7 +263,7 @@ if you can always predict what entity will do, then it is frequently considered 
 have free will. For engineering convenience state of the art LLMs use deterministic random
 number generators. This makes engineering more convenient because it aids in
 reproducibility. The random number generator uses a number called a "seed", and given the
-same seed the random number generator always produces the same number. Therefore if when
+same seed the random number generator always produces the same number. Therefore if
 someone deliberately fixes the seed for reproducibility, a specific LLM always produces
 the same output given the same input. By that commonly held notion LLMs do not have free
 will. Currently there is no pushback on the deterministic nature of the random number
