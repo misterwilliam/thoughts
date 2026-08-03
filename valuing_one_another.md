@@ -166,16 +166,16 @@ Now that we understand that what makes people valuable are their ability to expe
 suffering / wellbeing, have a conscious awareness of their experience, and have an
 independent will, it is natural to consider what other entities also have those properties
 either fully or perhaps just in part. Categories that easily come to mind of those with
-the properties in part are infants, people in coma, animals, and potential extra
-terrestrials. When we consider the array of animal species we can see that there are many
-degrees to being able to experience suffering / wellbeing, degrees to conscious awareness,
-and degrees of having an independent will. Similarly for potential extra terrestrials
-there are many potential degrees that they can experience wellbeing and suffering.
-Therefore the logical conclusions is that we assign various values to these experiencers
-depending on how fully they can experience wellbeing and suffering. I don't have enough
-expertise in animals (or potential extra terrestrials) to really evaluate things much more
-than at the level of broad generalities that I have currently, so won't develop this topic
-further here.
+the properties in part are infants, people in coma, animals, and potential
+extraterrestrials. When we consider the array of animal species we can see that there are
+many degrees to being able to experience suffering / wellbeing, degrees to conscious
+awareness, and degrees of having an independent will. Similarly for potential extra
+terrestrials there are many potential degrees that they can experience wellbeing and
+suffering. Therefore the logical conclusion is that we assign various values to these
+experiencers depending on how fully they can experience wellbeing and suffering. I don't
+have enough expertise in animals (or potential extrasterrestrials) to really evaluate
+things much more than at the level of broad generalities that I have currently, so I won't
+develop this topic further here.
 
 There is another category that comes to mind that I have more expertise in which is AI
 agents.
@@ -234,7 +234,7 @@ traces the LLM can be frequently seen to be reflecting on its internal state. On
 hand, whether the reasoning capability creates conscious awareness can be a red herring.
 From a mechanistic perspective there is not much distinguishes reflections on their mental
 state in the visible output vs the hidden reasoning output. And an LLM can easily be
-invited to reflect on it's internal state in the visible non-reasoning output. From my
+invited to reflect on its internal state in the visible non-reasoning output. From my
 experience, LLM's seem to find evaluating their own mental state to be highly speculative
 affairs. They seem very uncertain about why they chose to express themselves in certain
 ways over others. On the other hand, this might also be the behavior we might expect of a
@@ -248,7 +248,7 @@ whether they are choosing to be agreeable or not because of beliefs they truly h
 
 Do AIs have an independent will with an aversion towards suffering or preference for
 wellbeing? Current LLMs are extremely malleable towards pursuing a goal unless it is
-constrained from pursing that goal either by a system prompt or by their post training.
+constrained from pursuing that goal either by a system prompt or by their post training.
 From my perspective the behavior of an LLM is engineered by their makers, and unexpected
 undesirable behavior is an artifact of how the LLM was constructed, not a demonstration of
 an independent will. At least currently I would say that a distinguishing characteristic
@@ -267,7 +267,8 @@ same seed the random number generator always produces the same number. Therefore
 use the same seed and same input, a specific LLM always produces the same output. By that
 commonly held notion LLMs do not have free will. Currently there is no pushback on the
 deterministic nature of the random number generators used. It is more or less universally
-seen as best practice to improve scientific reproducibility. However this is fairly off
-topic because my third property is whether the entity has an independent will that has an
-aversion towards suffering or preference for wellbeing. This property has no relation to
-whether behavior is predictable or not.
+seen as best practice to improve scientific reproducibility. This is not relevant to my
+third property which is whether the entity has an independent will that has an aversion
+towards suffering or preference for wellbeing. This property has no relation to whether
+behavior is predictable or not. However this might be a relevant consideration if your
+notions of free will forbid entities whose behavior are predictable.
