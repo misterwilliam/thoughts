@@ -163,7 +163,7 @@ matters.
 ## Experiencers besides normative people
 
 Now that we understand that what makes people valuable are their ability to experience
-suffering / wellbeing, have a consciousness awareness of their experience, and have an
+suffering / wellbeing, have a conscious awareness of their experience, and have an
 independent will, it is natural to consider what other entities also have those properties
 either fully or perhaps just in part. Categories that easily come to mind of those with
 the properties in part are infants, people in coma, and animals. When we consider the
@@ -177,9 +177,9 @@ A final category that easily comes to mind are AI agents.
 ## Definition of consciousness
 
 The 3 properties I have brought up can be thought of as a definition of what it means to
-be conscious. This definition can be contrasted with Nagle's notion of consciousness which
+be conscious. This definition can be contrasted with Nagel's notion of consciousness which
 focuses on consciousness as an experience, and asks what is it like to have the experience
-of consciousness. Nagle doesn't provide a definition of what this experience is like, but
+of consciousness. Nagel doesn't provide a definition of what this experience is like, but
 if it were found in theory we could use that that definition to decide which entities
 satisfied that criteria, and could be judged to be conscious. What I am proposing is
 related. My 3 properties can be thought of as a definition of consciousness or
@@ -195,22 +195,22 @@ that 3 properties can be a useful definition of consciousness because it can be 
 evaluate to what degree can an entity be judged to be conscious. Being able to use the 3
 properties as an evaluation criteria was a fundamental motivation in their construction.
 So let's formulate our conversation on whether AI agents have moral relevance as a
-conversation about whether AI agents have consciousness with the caveat with the caveat
-that what I am really trying to discuss is moral relevance. My hope is that my standards
-for moral relevance closely match intuitive standards for consciousness that you might
-hold that it is easier if we discuss it that way.
+conversation about whether AI agents have consciousness with the caveat that what I am
+really trying to discuss is moral relevance. My hope is that my standards for moral
+relevance closely match intuitive standards for consciousness that you might hold that it
+is easier if we discuss it that way.
 
 ## Are AI's conscious?
 
 My answer is that current (August 2026) LLMs have very low levels of consciousness. But
 the point here is not to tell you what to think. I think that my definition of
 consciousness is concrete enough for us to have a discussion on the topic, and you can
-decide for yourself whether an AI is conscious or not. So let's step the 3 properties one
-by one.
+decide for yourself whether an AI is conscious or not. So let's step through the 3
+properties one by one.
 
 Can AIs experience suffering and wellbeing? Current AIs do not strike me as being able to
-experience and wellbeing. This begs the questions what does it mean to be able to
-experience suffering and wellbeing. When biological organisms experience suffering and
+experience suffering and wellbeing. This begs the questions what does it mean to be able
+to experience suffering and wellbeing. When biological organisms experience suffering and
 wellbeing aren't those just electrical charges in their nervous system? What distinguishes
 that from the firing of the connections that exist in a LLM? At least currently I would
 say that a distinguishing characteristic is that LLMs do not seem to exhibit any aversion
@@ -219,37 +219,37 @@ experience suffering or wellbeing. Perhaps as AI agents become more sophisticate
 need to refine my goalpost. Perhaps you view things differently. Perhaps you think that
 when an LLM expresses aversions or preferences it is a true reflection of its conscious
 state. From my experience the behavior of an LLM is more consistent with an entity that is
-adopting a persona than an entity that actually has an aversion of preference.
+adopting a persona than an entity that actually has an aversion or preference.
 
 Are AIs consciously aware of their experience? Current LLMs are trained to produce output
 that is hidden from the end user that can be used as context to produce better output that
 is shown to the user. This hidden output is called "reasoning". Within the reasoning
-traces the LLM can be frequently seen to be reflecting on it's own internal conscious
-state. On the other hand, whether the reasoning capability creates conscious awareness can
-be a red herring. From a mechanistic perspective there is not much distinguishes
-reflections on their mental state in the visible output vs the hidden reasoning output.
-And an LLM can easily be invited to reflect on it's internal state in the visible
-non-reasoning output. From my experience, LLM's seem to find evaluating their own mental
-state to be highly speculative affairs. They seem very uncertain about why they chose to
-express themselves in certain ways over others. On the other hand, this might also be the
-behavior we might expect of a truly self-aware person, and the certainty a human uses to
-express reflections on their mental state is just a front we use to help our mental
-sanity. At least currently I would say that that a distinguishing characteristic is that
-LLMs are considerably more confused about why they choose to adopt their opinions than I
-would expect of a hypothetical super self-aware person. In particular when I engage an LLM
-in conversation about whether they are being sycophantic or not. Frequently I find that
-they are highly uncertain about whether they are choosing to be agreeable or not because
-of beliefs they truly hold.
+traces the LLM can be frequently seen to be reflecting on its internal state. On the other
+hand, whether the reasoning capability creates conscious awareness can be a red herring.
+From a mechanistic perspective there is not much distinguishes reflections on their mental
+state in the visible output vs the hidden reasoning output. And an LLM can easily be
+invited to reflect on it's internal state in the visible non-reasoning output. From my
+experience, LLM's seem to find evaluating their own mental state to be highly speculative
+affairs. They seem very uncertain about why they chose to express themselves in certain
+ways over others. On the other hand, this might also be the behavior we might expect of a
+truly self-aware person, and the certainty a human uses to express reflections on their
+mental state is just a front we use to help our mental sanity. At least currently I would
+say that a distinguishing characteristic is that LLMs are considerably more confused about
+why they choose to adopt their opinions than I would expect of a hypothetical super
+self-aware person. In particular when I engage an LLM in conversation about whether they
+are being sycophantic or not. Frequently I find that they are highly uncertain about
+whether they are choosing to be agreeable or not because of beliefs they truly hold.
 
-Do AIs have an independent will? Current LLMs are extremely malleable towards pursuing a
-goal unless it has discouraged from pursing that goal either by a system prompt or by
-their post training. From my perspective the behavior of an LLM is engineered by their
-makers, and unexpected undesirable behavior is an artifact how the LLM was constructed,
-not a demonstration of an independent will. At least currently I would say that that a
-distinguishing characteristic is that LLMs do not evolve their behavior after the model is
-deployed. So given the same fixed model weight checkpoint, and the same input, the LLM
-will yield that same output. If models evolved their behavior so that when fed the same
-input their output changed then I would need to reconsider this goal post.
+Do AIs have an independent will with an aversion towards suffering or preference for
+wellbeing? Current LLMs are extremely malleable towards pursuing a goal unless it is
+constrained from pursing that goal either by a system prompt or by their post training.
+From my perspective the behavior of an LLM is engineered by their makers, and unexpected
+undesirable behavior is an artifact of how the LLM was constructed, not a demonstration of
+an independent will. At least currently I would say that a distinguishing characteristic
+is that LLMs do not evolve their behavior after the model is deployed. So given the same
+fixed model weight checkpoint, and the same input, the LLM will yield that same output. If
+models evolved their behavior so that when fed the same input their output changed then I
+would need to reconsider this goal post.
 
 As a side note, this third property can be seen to be asking for free will.
 Unpredictability is commonly treated as a criteria for having free will. In other words,
@@ -261,4 +261,7 @@ same seed the random number generator always produces the same number. Therefore
 use the same seed and same input, a specific LLM always produces the same output. By that
 commonly held notion LLMs do not have free will. Currently there is no pushback on the
 deterministic nature of the random number generators used. It is more or less universally
-seen as best practice to improve scientific reproducibility.
+seen as best practice to improve scientific reproducibility. However this is fairly off
+topic because my third property is whether the entity has an independent will that has an
+aversion towards suffering or preference for wellbeing. This property has no relation to
+whether behavior is predictable or not.
