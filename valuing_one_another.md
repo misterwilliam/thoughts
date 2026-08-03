@@ -27,18 +27,18 @@ terms which have a long tradition of philosophical discussion.
 ## Either you value everybody or you value nobody
 
 There is an obvious argument that one should value their own suffering / well being more
-than others because they are themselves and they experience this suffering / wellbeing. It
-is therefore crucial to explain why this argument is flawed. However there is a crucial
-distinction to be made. I am not claiming it is irrational to prioritize your own
-suffering / wellbeing above others. I am claiming that it is irrational to claim there is
-inherent value in your own suffering / wellbeing without claiming there is inherent value
-in the suffering / wellbeing of others. If you claim there is no inherent value in the
-suffering / wellbeing of others, you must admit that there is no inherent value in your
-own suffering / wellbeing. You are just merely choosing to prioritize your own suffering /
-wellbeing. Furthermore I am also not claiming it is wrong to feel a higher moral
-obligation towards your own suffering / wellbeing or of those close to you. I am claiming
-it is irrational to claim that you or those close to you have a higher inherent worth than
-other people.
+than others because they are themselves and they experience this suffering / wellbeing.
+Therefore it is crucial to explain why this argument is flawed. However there is an
+important distinction to be made. I am not claiming it is irrational to prioritize your
+own suffering / wellbeing above others. I am claiming that it is irrational to claim there
+is inherent value in your own suffering / wellbeing without claiming there is inherent
+value in the suffering / wellbeing of others. If you claim there is no inherent value in
+the suffering / wellbeing of others, you must admit that there is no inherent value in
+your own suffering / wellbeing. You are just merely choosing to prioritize your own
+suffering / wellbeing. Furthermore I am also not claiming it is wrong to feel a higher
+moral obligation towards your own suffering / wellbeing or of those close to you. I am
+claiming it is irrational to claim that you or those close to you have a higher inherent
+worth than other people.
 
 It is a contradiction to value one's own wellbeing without valuing the wellbeing of
 others. If you value your own wellbeing, then rationality dictates that you recognize the
@@ -119,7 +119,7 @@ It may seem a bit initially tedious but I think ultimately clarifying to careful
 describe what I mean by being able to experience suffering / wellbeing in a fully way. To
 fully have the full experience you must
 
-1. Be capable of experiencing suffering / wellbeing
+1. Be able to experience the sensation of suffering / wellbeing
 2. Have a conscious awareness of your experience and
 3. Have an independent will that has an aversion towards suffering and desires towards
    wellbeing.
@@ -160,7 +160,7 @@ as a proof, but as an aid to honest self-examination — the way most people act
 experience narrative is hard to square with the view that only their own experience
 matters.
 
-## Experiencers besides normative people
+## Experiencers besides stereotypical people
 
 Now that we understand that what makes people valuable are their ability to experience
 suffering / wellbeing, have a conscious awareness of their experience, and have an
@@ -182,23 +182,23 @@ agents.
 
 ## Definition of consciousness
 
-The 3 properties I have brought up can be thought of as a definition of what it means to
-be conscious. This definition can be contrasted with Nagel's notion of consciousness which
-focuses on consciousness as an experience, and asks what is it like to have the experience
-of consciousness. Nagel doesn't provide a definition of what this experience is like, but
-if it were found in theory we could use that that definition to decide which entities
-satisfied that criteria, and could be judged to be conscious. What I am proposing is
-related. My 3 properties can be thought of as a definition of consciousness or
-alternatively the first 2 properties can be thought of as a definition of consciousness
-and the 3rd property is about free will. I don't have strong feelings on whether these
+The three properties I have brought up can be thought of as a definition of what it means
+to be conscious. This definition can be contrasted with Nagel's notion of consciousness
+which focuses on consciousness as an experience, and asks what is it like to have the
+experience of consciousness. Nagel doesn't provide a definition of what this experience is
+like, but if it were found in theory we could use that that definition to decide which
+entities satisfied that criteria, and could be judged to be conscious. What I am proposing
+is related. My three properties can be thought of as a definition of consciousness or
+alternatively the first two properties can be thought of as a definition of consciousness
+and the third property is about free will. I don't have strong feelings on whether these
 should or should not be a definition of consciousness and whether or not the third
 property is adequate definition of free will. However if we accept that as a suitable
 definition for consciousness, my argument is that entities have moral relevance to the
 degree they have consciousness.
 
 My focus is on what properties are necessary to gain moral relevance, however I do feel
-that 3 properties can be a useful definition of consciousness because it can be used to
-evaluate to what degree can an entity be judged to be conscious. Being able to use the 3
+that three properties can be a useful definition of consciousness because it can be used to
+evaluate to what degree can an entity be judged to be conscious. Being able to use the three
 properties as an evaluation criteria was a fundamental motivation in their construction.
 So let's formulate our conversation on whether AI agents have moral relevance as a
 conversation about whether AI agents have consciousness with the caveat that what I am
@@ -211,7 +211,7 @@ is easier if we discuss it that way.
 My answer is that current (August 2026) LLMs have very low levels of consciousness. But
 the point here is not to tell you what to think. I think that my definition of
 consciousness is concrete enough for us to have a discussion on the topic, and you can
-decide for yourself whether an AI is conscious or not. So let's step through the 3
+decide for yourself whether an AI is conscious or not. So let's step through the three
 properties one by one.
 
 Can AIs experience suffering and wellbeing? Current AIs do not strike me as being able to
@@ -273,3 +273,24 @@ entity has an independent will that has an aversion towards suffering or prefere
 wellbeing. This property has no relation to whether behavior is predictable or not.
 However this might be a relevant consideration if your notions of free will forbid
 entities whose behavior is predictable.
+
+## Putting it together
+
+The argument in this essay has two parts. The first is an argument that it is
+contradictory to claim that you have value while denying the value in others because there
+is no morally relevant distinction between your experience and anyone else's. However
+pointing out there is a contradiction doesn't explain why we should value one another. The
+second is my best guess at why you (perhaps subconsciously) value yourself and others. The
+reason you value yourself and others is because you can experience wellbeing and
+suffering. And I broke down what it means to be able to experience wellbeing and suffering
+into being able to experience the sensation of wellbeing and suffering, being consciously
+aware of that experience, and having an independent will that is averse to suffering and
+prefers wellbeing. Because all three of these can be present in degrees rather than as an
+all-or-nothing property, so too is moral weight. Therefore when we broaden the scope
+beyond just stereotypical adult humans to infants, animals, aliens, and AI, we come to the
+conclusion that their moral weight comes in degrees.
+
+Applying this to current LLMs, I don't think they currently substantially satisfy the
+criteria for moral value. However not substantially satisfying the criteria is not the
+same as zero satisfaction, and this is just my assessment of the state of affairs at this
+current point in time.
