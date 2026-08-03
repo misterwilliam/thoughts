@@ -26,54 +26,51 @@ terms which have a long tradition of philosophical discussion.
 
 ## Either you value everybody or you value nobody
 
-There is an obvious argument that one should value their own suffering / well being more
-than others because they are themselves and they experience this suffering / wellbeing.
+There is an obvious argument that one should value their own welfare more than others
+because they are themselves and they experience their own suffering and wellbeing.
 Therefore it is crucial to explain why this argument is flawed. However there is an
 important distinction to be made. I am not claiming it is irrational to prioritize your
-own suffering / wellbeing above others. I am claiming that it is irrational to claim there
-is inherent value in your own suffering / wellbeing without claiming there is inherent
-value in the suffering / wellbeing of others. If you claim there is no inherent value in
-the suffering / wellbeing of others, you must admit that there is no inherent value in
-your own suffering / wellbeing. You are just merely choosing to prioritize your own
-suffering / wellbeing. Furthermore I am also not claiming it is wrong to feel a higher
-moral obligation towards your own suffering / wellbeing or of those close to you. I am
-claiming it is irrational to claim that you or those close to you have a higher inherent
-worth than other people.
+own welfare above others. I am claiming that it is irrational to claim there is inherent
+value in your own welfare without claiming there is inherent value in the welfare of
+others. If you claim there is no inherent value in the welfare of others, you must admit
+that there is no inherent value in your own welfare. You are just merely choosing to
+prioritize your own welfare. Furthermore I am also not claiming it is wrong to feel a
+higher moral obligation towards your own welfare or of those close to you. I am claiming
+it is irrational to claim that you or those close to you have a higher inherent worth than
+other people.
 
-It is a contradiction to value one's own wellbeing without valuing the wellbeing of
-others. If you value your own wellbeing, then rationality dictates that you recognize the
-value in the wellbeing of others because there is no rationally relevant distinction
-between your wellbeing and that of others. The only distinction between your wellbeing and
-others is that you experience your own wellbeing. A moral claim must be a coherent
-principle that applies to ourselves and others. There is no coherent principle that
-applies to ourselves and others that allows for valuing your own suffering / wellbeing
-without valuing it in others. The closest coherent moral principle is to claim that
-everyone should value their own suffering / wellbeing and not valuing it in others. But
-that is contradictory because it is admitting that suffering / wellbeing have no inherent
-value. We are actually just choosing to make decisions prioritizing our own suffering /
-wellbeing. Similarly, one can claim that they are no longer trying to behave morally. They
-are just choosing to prefer their own suffering / wellbeing over others. That is a
+It is a contradiction to value one's own welfare without valuing the welfare of others. If
+you value your own welfare, then rationality dictates that you recognize the value in the
+welfare of others because there is no rationally relevant distinction between your welfare
+and that of others. The only distinction between your welfare and others is that you
+experience your own welfare. A moral claim must be a coherent principle that applies to
+ourselves and others. There is no coherent principle that applies to ourselves and others
+that allows for valuing your own welfare without valuing it in others. The closest
+coherent moral principle is to claim that everyone should value their own welfare and not
+valuing it in others. But that is contradictory because it is admitting that welfare in
+general has no inherent value. We are actually just choosing to make decisions
+prioritizing our own welfare. Similarly, one can claim that they are no longer trying to
+behave morally. They are just choosing to prefer their own welfare over others. That is a
 rational choice that one could make, however once again, they would have to accept that
-there is no inherent value in their own suffering / wellbeing. They are just merely making
-a personal choice to prioritize it.
+there is no inherent value in their own welfare. They are just merely making a personal
+choice to prioritize it.
 
-Finally one can claim there is value in my own suffering / wellbeing because I see value
-in it. There is nothing wrong with that claim. But I am discussing inherent value which
-exists apart from your own perspective. If you claim that your own suffering / well being
-has inherent value, then you must also claim the suffering / wellbeing has inherent value.
-If you claim that inherent value is not a coherent concept, and it does not exist; that
-also does not refute my claim. That implies that nobody's suffering / wellbeing has
-inherent value, which I claim is a rational position to take. It is also fine to claim
-that you feel a stronger moral obligation to your own suffering / wellbeing or those who
-are close to. That is different from claiming that you or those who you are close to have
-a greater inherent value. Claiming that you or those close to you have higher inherent
-value is irrational whether you feel a higher moral obligation to prioritize the suffering
-/ wellbeing of yourself of those close to you is a different question.
+Finally one can claim there is value in my own welfare because I see value in it. There is
+nothing wrong with that claim. But I am discussing inherent value which exists apart from
+your own perspective. If you claim that your own welfare has inherent value, then you must
+also claim the welfare has inherent value. If you claim that inherent value is not a
+coherent concept, and it does not exist; that also does not refute my claim. That implies
+that nobody's welfare has inherent value, which I claim is a rational position to take. It
+is also fine to claim that you feel a stronger moral obligation to your own welfare or
+those who are close to you. That is different from claiming that you or those who you are
+close to have a greater inherent value. Claiming that you or those close to you have
+higher inherent value is irrational. Whether you feel a higher moral obligation to
+prioritize the welfare of yourself of those close to you is a different question.
 
 Therefore the only rational options are:
 
-1. No one's suffering / wellbeing is inherently valuable.
-2. Suffering / wellbeing is inherently valuable, and that applies to everyone's — not just
+1. No one's welfare is inherently valuable.
+2. A person's welfare is inherently valuable, and that applies to everyone's — not just
    your own.
 
 This is an argument from contradiction that shows that if you believe that you have value,
@@ -116,33 +113,29 @@ judgments in the universe and the sole source of value because without value jud
 there is nothing to value.
 
 It may seem a bit initially tedious but I think ultimately clarifying to carefully
-describe what I mean by being able to experience suffering / wellbeing in a fully way. To
-fully have the full experience you must
+describe what I mean by being able to experience suffering and wellbeing in a full way. To
+have the full experience you must
 
-1. Be able to experience the sensation of suffering / wellbeing
+1. Be able to experience the sensation of suffering and wellbeing
 2. Have a conscious awareness of your experience and
 3. Have an independent will that has an aversion towards suffering and desires towards
    wellbeing.
 
 It is having all three of these characteristics that lead to having value judgments. If a
-person just physically experienced suffering / wellbeing but was in a sense like a zombie
-with no conscious awareness of their experience or no independent will that that prevented
-them from being apathetic towards their experience, we wouldn't consider there to be a
-value judgement.
+person just physically experienced suffering and wellbeing but was in a sense like a
+zombie with no conscious awareness of their experience or no independent will that that
+prevented them from being apathetic towards their experience, we wouldn't consider there
+to be a value judgement.
 
-Just like experiences can vary in degrees of suffering / wellbeing, so to can levels of
+Just like experiences can vary in degrees of suffering and wellbeing, so to can levels of
 conscious awareness of an experience and levels of aversion or desires towards an
 experience. This means that the level of fullness of the experience can vary and therefore
 the level of moral weight can vary.
 
-My argument assumes you value yourself, and explains why you value yourself. The reasons
-why you value yourself is tied up in our experiences of being ourselves. We think of
-decisions that bring us suffering or wellbeing as having moral weight because of how we
-experience the suffering and wellbeing. We can experiences the pain of suffering and the
-pleasure of wellbeing. We are consciously aware of our experience. We have an independent
-will that desires to avoid suffering and experience wellbeing. This is what leads to the
-value judgments you have about your own experiences. Therefore the fullness of your
-experience of suffering / wellbeing is what causes you to value yourself.
+My argument assumes you value yourself, and explains why you value yourself. The three
+characteristics above are what lead to the value judgments you have about your own
+experiences. Therefore the fullness of your experience of suffering and wellbeing is what
+causes you to value yourself.
 
 If you still feel confused about this point, consider the movies (or other narrative art
 forms) that you watch and your reaction to them. If you truly believed that only your
@@ -163,16 +156,16 @@ matters.
 ## Experiencers besides stereotypical people
 
 Now that we understand that what makes people valuable are their ability to experience
-suffering / wellbeing, have a conscious awareness of their experience, and have an
+suffering and wellbeing, have a conscious awareness of their experience, and have an
 independent will, it is natural to consider what other entities also have those properties
 either fully or perhaps just in part. Categories that easily come to mind of those with
 the properties in part are infants, people in coma, animals, and potential
 extraterrestrials. When we consider the array of animal species we can see that there are
-many degrees to being able to experience suffering / wellbeing, degrees to conscious
+many degrees to being able to experience suffering and wellbeing, degrees to conscious
 awareness, and degrees of having an independent will. Similarly for potential extra
 terrestrials there are many potential degrees that they can experience wellbeing and
 suffering. Therefore the logical conclusion is that we assign various values to these
-experiencers depending on how fully they can experience wellbeing and suffering. I don't
+experiencers depending on how fully they can experience suffering and wellbeing. I don't
 have enough expertise in animals (or potential extraterrestrials) to really evaluate
 things much more than at the level of broad generalities that I have currently, so I won't
 develop this topic further here.
@@ -197,14 +190,14 @@ definition for consciousness, my argument is that entities have moral relevance 
 degree they have consciousness.
 
 My focus is on what properties are necessary to gain moral relevance, however I do feel
-that three properties can be a useful definition of consciousness because it can be used to
-evaluate to what degree can an entity be judged to be conscious. Being able to use the three
-properties as an evaluation criteria was a fundamental motivation in their construction.
-So let's formulate our conversation on whether AI agents have moral relevance as a
-conversation about whether AI agents have consciousness with the caveat that what I am
-really trying to discuss is moral relevance. My hope is that my standards for moral
-relevance closely match intuitive standards for consciousness that you might hold that it
-is easier if we discuss it that way.
+that three properties can be a useful definition of consciousness because it can be used
+to evaluate to what degree can an entity be judged to be conscious. Being able to use the
+three properties as an evaluation criteria was a fundamental motivation in their
+construction. So let's formulate our conversation on whether AI agents have moral
+relevance as a conversation about whether AI agents have consciousness with the caveat
+that what I am really trying to discuss is moral relevance. My hope is that my standards
+for moral relevance closely match intuitive standards for consciousness that you might
+hold that it is easier if we discuss it that way.
 
 ## Are AI's conscious?
 
@@ -281,9 +274,9 @@ contradictory to claim that you have value while denying the value in others bec
 is no morally relevant distinction between your experience and anyone else's. However
 pointing out there is a contradiction doesn't explain why we should value one another. The
 second is my best guess at why you (perhaps subconsciously) value yourself and others. The
-reason you value yourself and others is because you can experience wellbeing and
-suffering. And I broke down what it means to be able to experience wellbeing and suffering
-into being able to experience the sensation of wellbeing and suffering, being consciously
+reason you value yourself and others is because you can experience suffering and
+wellbeing. And I broke down what it means to be able to experience suffering and wellbeing
+into being able to experience the sensation of suffering and wellbeing, being consciously
 aware of that experience, and having an independent will that is averse to suffering and
 prefers wellbeing. Because all three of these can be present in degrees rather than as an
 all-or-nothing property, so too is moral weight. Therefore when we broaden the scope
