@@ -65,7 +65,7 @@ is also fine to claim that you feel a stronger moral obligation to your own welf
 those who are close to you. That is different from claiming that you or those who you are
 close to have a greater inherent value. Claiming that you or those close to you have
 higher inherent value is irrational. Whether you feel a higher moral obligation to
-prioritize the welfare of yourself of those close to you is a different question.
+prioritize the welfare of yourself or those close to you is a different question.
 
 Therefore the only rational options are:
 
@@ -89,25 +89,24 @@ degree to which we value one another can vary.
 ## What gives people value
 
 The argument I would like to make now is a strange one. As I've mentioned earlier we are
-starting from the assumption that you value yourself, and I've explained that that reasons
-you have for you valuing yourself must extend to other people, but I haven't explained
-what the reasons you value yourself are. I've just claimed no matter what those reasons
-are they must apply to others because there are no morally relevant distinctions between
-you and others. But now I want to actually go into what these reasons are. But I don't
-know you. So I am just going to claim I know the reasons why you value yourself and
-perhaps have not consciously realized, and I am going to describe it and hope it rings
-true.
+starting from the assumption that you value yourself, and I've explained that the reasons
+you have for valuing yourself must extend to other people, but I haven't explained what
+the reasons you value yourself are. I've just claimed no matter what those reasons are
+they must apply to others because there are no morally relevant distinctions between you
+and others. But now I want to actually go into what these reasons are. But I don't know
+you. So I am just going to claim I know the reasons why you value yourself and perhaps
+have not consciously realized, and I am going to describe it and hope it rings true.
 
 The reasons why we value ourselves is tied up in our experiences of being ourselves. We
 think of decisions that bring us suffering or wellbeing as having moral weight because of
-how we experience the suffering and wellbeing. We can experiences the pain of suffering
-and the pleasure of wellbeing. We are consciously aware of our experience. We have an
+how we experience the suffering and wellbeing. We can experience the pain of suffering and
+the pleasure of wellbeing. We are consciously aware of our experience. We have an
 independent will that desires to avoid suffering and experience wellbeing.
 
 In other words, we have value because we are experiencers of suffering and wellbeing in a
-full way. Not only can we experience suffering and wellbeing but we have an conscious
+full way. Not only can we experience suffering and wellbeing but we have a conscious
 awareness of this experience and an independent will with an aversion towards suffering
-and a desires towards wellbeing. These second two characteristics give our experience a
+and a desire towards wellbeing. These second two characteristics give our experience a
 fullness that allows for value judgments. These experiences are the sole source of value
 judgments in the universe and the sole source of value because without value judgments
 there is nothing to value.
@@ -123,11 +122,11 @@ have the full experience you must
 
 It is having all three of these characteristics that lead to having value judgments. If a
 person just physically experienced suffering and wellbeing but was in a sense like a
-zombie with no conscious awareness of their experience or no independent will that that
+zombie with no conscious awareness of their experience or no independent will that
 prevented them from being apathetic towards their experience, we wouldn't consider there
 to be a value judgement.
 
-Just like experiences can vary in degrees of suffering and wellbeing, so to can levels of
+Just like experiences can vary in degrees of suffering and wellbeing, so too can levels of
 conscious awareness of an experience and levels of aversion or desires towards an
 experience. This means that the level of fullness of the experience can vary and therefore
 the level of moral weight can vary.
@@ -139,14 +138,14 @@ causes you to value yourself.
 
 If you still feel confused about this point, consider the movies (or other narrative art
 forms) that you watch and your reaction to them. If you truly believed that only your
-experience matters because you are the one experiencing it. Does your reaction to the plot
+experience matters because you are the one experiencing it, does your reaction to the plot
 of the story make any sense? You are entertaining yourself by watching a narrative of
 another person experiencing pleasure, pain, desires and life aspirations. This is an
 equivalent formulation that maps to the three characteristics I've outlined. And the
-protagonist of the story is inevitably placing valuing in the wellbeing, suffering,
-desires, and life aspirations of others. If you truly believe that your experiences matter
-because you are the one experiencing it then the plot lines of these movies should strike
-you as alien because the motivations of the people in the story should make no sense.
+protagonist of the story is inevitably placing value in the wellbeing, suffering, desires,
+and life aspirations of others. If you truly believe that your experiences matter because
+you are the one experiencing it then the plot lines of these movies should strike you as
+alien because the motivations of the people in the story should make no sense.
 Furthermore, you should find the whole experience of watching a movie to be a waste of
 time because you are watching the experience of someone else and not you. This isn't meant
 as a proof, but as an aid to honest self-examination — the way most people actually
@@ -179,9 +178,9 @@ The three properties I have brought up can be thought of as a definition of what
 to be conscious. This definition can be contrasted with Nagel's notion of consciousness
 which focuses on consciousness as an experience, and asks what is it like to have the
 experience of consciousness. Nagel doesn't provide a definition of what this experience is
-like, but if it were found in theory we could use that that definition to decide which
-entities satisfied that criteria, and could be judged to be conscious. What I am proposing
-is related. My three properties can be thought of as a definition of consciousness or
+like, but if it were found in theory we could use that definition to decide which entities
+satisfied that criteria, and could be judged to be conscious. What I am proposing is
+related. My three properties can be thought of as a definition of consciousness or
 alternatively the first two properties can be thought of as a definition of consciousness
 and the third property is about free will. I don't have strong feelings on whether these
 should or should not be a definition of consciousness and whether or not the third
@@ -196,10 +195,10 @@ three properties as an evaluation criteria was a fundamental motivation in their
 construction. So let's formulate our conversation on whether AI agents have moral
 relevance as a conversation about whether AI agents have consciousness with the caveat
 that what I am really trying to discuss is moral relevance. My hope is that my standards
-for moral relevance closely match intuitive standards for consciousness that you might
-hold that it is easier if we discuss it that way.
+for moral relevance closely match your intuitive standards for consciousness so that it is
+easier if we discuss it that way.
 
-## Are AI's conscious?
+## Are AIs conscious?
 
 My answer is that current (August 2026) LLMs have very low levels of consciousness. But
 the point here is not to tell you what to think. I think that my definition of
@@ -208,12 +207,12 @@ decide for yourself whether an AI is conscious or not. So let's step through the
 properties one by one.
 
 Can AIs experience suffering and wellbeing? Current AIs do not strike me as being able to
-experience suffering and wellbeing. This begs the questions what does it mean to be able
+experience suffering and wellbeing. This raises the question what does it mean to be able
 to experience suffering and wellbeing. When biological organisms experience suffering and
 wellbeing aren't those just electrical charges in their nervous system? What distinguishes
 that from the firing of the connections that exist in a LLM? At least currently I would
 say that a distinguishing characteristic is that LLMs do not seem to exhibit any aversion
-or preference towards experiences in a way that would strike me as entity that is
+or preference towards experiences in a way that would strike me as an entity that is
 experience suffering or wellbeing. Perhaps as AI agents become more sophisticated I will
 need to refine my goalpost. Perhaps you view things differently. Perhaps you think that
 when an LLM expresses aversions or preferences it is a true reflection of its conscious
@@ -225,10 +224,10 @@ that is hidden from the end user that can be used as context to produce better o
 is shown to the user. This hidden output is called "reasoning". Within the reasoning
 traces the LLM can be frequently seen to be reflecting on its internal state. On the other
 hand, whether the reasoning capability creates conscious awareness can be a red herring.
-From a mechanistic perspective there is not much distinguishes reflections on their mental
-state in the visible output vs the hidden reasoning output. And an LLM can easily be
-invited to reflect on its internal state in the visible non-reasoning output. From my
-experience, LLM's seem to find evaluating their own mental state to be highly speculative
+From a mechanistic perspective there is not much that distinguishes reflections on their
+mental state in the visible output vs the hidden reasoning output. And an LLM can easily
+be invited to reflect on its internal state in the visible non-reasoning output. From my
+experience, LLMs seem to find evaluating their own mental state to be highly speculative
 affairs. They seem very uncertain about why they chose to express themselves in certain
 ways over others. On the other hand, this might also be the behavior we might expect of a
 truly self-aware person, and the certainty a human uses to express reflections on their
