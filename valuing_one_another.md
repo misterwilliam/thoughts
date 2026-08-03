@@ -166,13 +166,19 @@ Now that we understand that what makes people valuable are their ability to expe
 suffering / wellbeing, have a conscious awareness of their experience, and have an
 independent will, it is natural to consider what other entities also have those properties
 either fully or perhaps just in part. Categories that easily come to mind of those with
-the properties in part are infants, people in coma, and animals. When we consider the
-array of animal species we can see that there are many degrees to being able to experience
-suffering / wellbeing, degrees to conscious awareness, and degrees of having an
-independent will. Therefore the logical conclusions is that we assign various values to
-these experiencers depending on how fully they can experience wellbeing and suffering.
+the properties in part are infants, people in coma, animals, and potential extra
+terrestrials. When we consider the array of animal species we can see that there are many
+degrees to being able to experience suffering / wellbeing, degrees to conscious awareness,
+and degrees of having an independent will. Similarly for potential extra terrestrials
+there are many potential degrees that they can experience wellbeing and suffering.
+Therefore the logical conclusions is that we assign various values to these experiencers
+depending on how fully they can experience wellbeing and suffering. I don't have enough
+expertise in animals (or potential extra terrestrials) to really evaluate things much more
+than at the level of broad generalities that I have currently, so won't develop this topic
+further here.
 
-A final category that easily comes to mind are AI agents.
+There is another category that comes to mind that I have more expertise in which is AI
+agents.
 
 ## Definition of consciousness
 
