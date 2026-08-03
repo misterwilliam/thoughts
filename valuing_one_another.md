@@ -173,7 +173,7 @@ awareness, and degrees of having an independent will. Similarly for potential ex
 terrestrials there are many potential degrees that they can experience wellbeing and
 suffering. Therefore the logical conclusion is that we assign various values to these
 experiencers depending on how fully they can experience wellbeing and suffering. I don't
-have enough expertise in animals (or potential extrasterrestrials) to really evaluate
+have enough expertise in animals (or potential extraterrestrials) to really evaluate
 things much more than at the level of broad generalities that I have currently, so I won't
 develop this topic further here.
 
@@ -263,12 +263,13 @@ if you can always predict what entity will do, then it is frequently considered 
 have free will. For engineering convenience state of the art LLMs use deterministic random
 number generators. This makes engineering more convenient because it aids in
 reproducibility. The random number generator uses a number called a "seed", and given the
-same seed the random number generator always produces the same number. Therefore if you
-use the same seed and same input, a specific LLM always produces the same output. By that
-commonly held notion LLMs do not have free will. Currently there is no pushback on the
-deterministic nature of the random number generators used. It is more or less universally
-seen as best practice to improve scientific reproducibility. This is not relevant to my
-third property which is whether the entity has an independent will that has an aversion
-towards suffering or preference for wellbeing. This property has no relation to whether
-behavior is predictable or not. However this might be a relevant consideration if your
-notions of free will forbid entities whose behavior are predictable.
+same seed the random number generator always produces the same number. Therefore if when
+someone deliberately fixes the seed for reproducibility, a specific LLM always produces
+the same output given the same input. By that commonly held notion LLMs do not have free
+will. Currently there is no pushback on the deterministic nature of the random number
+generators used. It is more or less universally seen as best practice to improve
+scientific reproducibility. This is not relevant to my third property which is whether the
+entity has an independent will that has an aversion towards suffering or preference for
+wellbeing. This property has no relation to whether behavior is predictable or not.
+However this might be a relevant consideration if your notions of free will forbid
+entities whose behavior is predictable.
