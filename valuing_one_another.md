@@ -1,28 +1,27 @@
 # Why we should value one another
 
-The unfortunate truth is that it is perfectly logical to believe other humans have no
-value and it is perfectly logical to believe that other humans do have value. Once you
-adopt secular assumptions there is no rational reason that compels you to believe that
-other humans have intrinsic value. We may want there to be an explanation that assumes
-nothing but pure logic that forces you to believe that all humans have value, but that
-explanation doesn't exist. There is however a really big however. The really big however
-is that if you value yourself then the only logically consistent position is to value
-other humans. In other words the two logically consistent positions are:
+The unfortunate truth is that it is both perfectly logical to believe other humans have no
+value and to believe other humans do have value. Once you adopt secular assumptions there
+is no rational reason that compels you to believe one way or another. We may want there to
+be an explanation that assumes nothing but pure logic and forces you to believe all humans
+have value, but that explanation doesn't exist. There is a big however. If you value
+yourself then the only logically consistent position is to value other humans. In other
+words the two logically consistent positions are:
 
 1. No humans are valuable (including yourself) or
-2. You have value according to certain criteria, and those same criteria apply to all
-   other humans.
+2. You have value according to certain criteria, and by those criteria others have value
+   too.
 
-Therefore there is an explanation that forces you to believe that all humans have value
-that assumes nothing but pure logic if we have the added assumption you value yourself.
+Therefore there is an explanation that assumes nothing but pure logic and forces you to
+believe all humans have value, if we assume you value yourself.
 
-Obviously that is a big claim which requires a good explanation. But before we get into
-that I want to explain what I mean that a human has value. When I say that I mean that
-decisions impacting the welfare of humans are decision with moral consequences. This is
-also referred to as having moral relevance, moral status, moral consideration, or moral
-patient hood. I will be sticking with the term value as opposed to those more technical
-terms. But I just want to be clear that I am referring to the same concept as those other
-terms which have a long tradition of philosophical discussion.
+This is a big claim which deserves a good explanation. But before we get into that I want
+to explain what I mean when I say that a human has value. By value I mean that decisions
+impacting human welfare are decisions of moral consequence. This is also referred to as
+having moral relevance, moral status, moral consideration, or moral patienthood. I will be
+sticking with the term value as opposed to those more technical terms. But I just want to
+be clear that I am referring to the same concept as those other terms which have a long
+tradition of philosophical discussion.
 
 ## Either you value everybody or you value nobody
 
