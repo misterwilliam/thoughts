@@ -115,7 +115,7 @@ are discussing morals, we are discussing at a minimum rules that apply to
 ourselves and others. This is not intended to be not a full definition of
 morality, but just a subset of the characteristics of morality relevant to our
 current topic. (For a more in-depth discussion of my opinions on morals see
-[morals.md](morals.md), but those ideas are not necessary to understand this
+[morals.md](../morals.md), but those ideas are not necessary to understand this
 essay).
 
 If we don't claim that morals apply to ourselves and others then it doesn't seem

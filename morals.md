@@ -181,7 +181,7 @@ desirable traits. If we should expect the hyper-intelligent future AI to view
 these categories as desirable traits then we can feel confident that these
 future AIs will view moral issues in a similar way that we do at least at a
 fundamental level. I have discussed this
-[Expected ASI Safety and Morals](asi_morals.md)
+[Expected ASI Safety and Morals](drafts/asi_morals.md)
 
 Also my 5 categories are somewhat described in a human centric way. To keep the
 description simpler I have written everything as humans were the only conscious
