@@ -213,7 +213,7 @@ wellbeing aren't those just electrical charges in their nervous system? What dis
 that from the firing of the connections that exist in a LLM? At least currently I would
 say that a distinguishing characteristic is that LLMs do not seem to exhibit any aversion
 or preference towards experiences in a way that would strike me as an entity that is
-experience suffering or wellbeing. Perhaps as AI agents become more sophisticated I will
+experiencing suffering or wellbeing. Perhaps as AI agents become more sophisticated I will
 need to refine my goalpost. Perhaps you view things differently. Perhaps you think that
 when an LLM expresses aversions or preferences it is a true reflection of its conscious
 state. From my experience the behavior of an LLM is more consistent with an entity that is
