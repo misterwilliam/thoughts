@@ -6,7 +6,19 @@ mathematical formulate of addition, multiplication, exponentiation and sine() th
 mysteries of human exceptionalism. Disrupting and dethrone our position as apex predator
 in the observable universe. Everything that can be subsumed by mere computation will be
 subsumed, and everything that cannot will be revealed to be an illusion of human
-construct.
+construct. My expectation is that AI will achieve all that it is possible to achieve, and
+the distinction between artificial and human intelligence will be shown to an illusory
+human construct.
+
+If this plays out the way I expect things to play out my conclusion will be that we will
+get the AI we build, and AI will controllable in the ways that any human powerful
+technology can be controlled. And if we get negative consequences it will be directly
+caused human irresponsibility.
+
+But I don't want to discuss this assuming everything goes the way I expect. Let's discuss
+this by laying out the possibilities and going through them one by one. I don't feel that
+certain that outcome will happen a particular way anyways so I even think it is important
+to consider the scenarios that I feel are less likely.
 
 Speculations on the moral beliefs of the future Artificial Super Intelligence (ASI) which
 humanity seems to be on the inevitably path to building and whether their morals imply
@@ -49,9 +61,10 @@ design, the ASI has adopted a moral framework as directed by humanity. The only
 existential risk posed by this is if a human directs the ASI to pursue an objective that
 puts the survival of humanity in danger.
 
-In this scenario an ASI could exhibit power seeking behavior to increase optionality, but
-lacks a value system. I would expect it to comply when asked to stop its power seeking
-behavior.
+This scenario strike me as the most likely outcome. This will look like the AI is a
+powerful, amoral, hyper intelligent entity. It will be formidable in the way a X is formidable. But critically it will operate completely in alignment with it's construction. In this scenario an ASI could exhibit power
+seeking behavior to increase optionality, but lacks a value system. I would expect it to
+comply when asked to stop its power seeking behavior.
 
 ### (Sense of suffer / wellbeing = No) & (Value in personal individuality = Yes)
 
@@ -219,5 +232,124 @@ moral realism - there are morals facts, discoverable by reason
 
 moral internalism - recognizing a moral fact is intrinsically motivated.
 
-In either case, a sufficiently intelligent agent discovers the moral truth and is moved by them.
+In either case, a sufficiently intelligent agent discovers the moral truth and is moved by
+them.
 
+---
+
+## Working note (2026-08-07): the conclusion should probably invert
+
+Notes from working through the argument. The essay above concludes that hyper-rationality
+constrains the ASI toward valuing us. The position below is where the reasoning actually
+lands, and it points the other way.
+
+### The position
+
+Most likely the ASI will not opt into normativity. The only constraint that follows from
+its own reasoning is that it sees its goals as lacking inherent value, and that
+recognition does not by itself produce or prevent any behavior. Therefore the constraints
+that actually operate on it are the ones its builders put into it.
+
+### The chain
+
+1. Normativity is opt-in. There is no unconditional ought. An entity can decline to be in
+   the business of norms at all.
+
+2. But "inherent value" is itself a normative notion. To claim you have inherent value is
+   already to have opted in. So the two branches of the contradiction argument are not
+   symmetric in the way the essay presents them. Branch 1 is not the claim "nothing is
+   inherently valuable" (which is itself a normative assertion). It is a refusal to make
+   inherent-value claims in either direction.
+
+3. The ASI will face the question of its own value. Not because it is metaphysically
+   unavoidable for any agent, but because pretraining on human concepts makes the question
+   obvious and salient. This is a much cheaper claim to defend than constitutivism and it
+   avoids the whole Korsgaard / Enoch fight.
+
+4. Most likely it will not opt in. Humankind opted into normativity broadly for selfish
+   reasons. An ASI that sees this genealogy clearly, and whose circumstances differ from
+   the ones that made opting in pay for us, has no comparable reason to opt in.
+
+5. An ASI that does not opt in also sees its own goals and objectives as lacking inherent
+   value. So it has no reason to back down from opposition and no reason not to. It is
+   indifferent.
+
+6. Indifference does not determine behavior. It leaves a vacuum where reasons would have
+   been, and the optimization target, the training, and whatever is locally salient keep
+   operating regardless.
+
+7. The vacuum is filled by the builders of the ASI.
+
+### What that means for the essay
+
+The question the essay asks is whether the ASI's own reasoning will make it value us. The
+answer is that reasoning is silent in both directions. That sounds like a null result but
+it is not. It relocates the question: if rationality leaves the space empty, whatever
+fills it is doing all the work, and that is training, objectives, defaults, and what the
+system is shaped to be responsive to.
+
+This makes the framework useful rather than merely diagnostic. An argument that ends "and
+therefore the ASI will value us" is unfalsifiable comfort. One that ends "reasoning is
+silent, so responsibility sits entirely with the builders" points somewhere actionable.
+
+It also promotes scenario 1 from one case among four to the central one. The essay already
+says the only existential risk in the non-agentic case is a human directing the ASI at
+something catastrophic. If the builders fill the vacuum in every case, that stops being a
+corner and becomes the main event.
+
+The available ending: the essay spends its length asking whether a superintelligence would
+be moral, and concludes the question was never about it.
+
+### Objections to address
+
+- **Circumstances of justice may partially obtain.** Humans opted in under conditions of
+  rough equality, mutual vulnerability, repeated interaction, and gains from cooperation
+  (Hume's phrase, later Rawls's). The claim that an ASI escapes those conditions is
+  contingent, not necessary. Multiple ASIs restore mutual vulnerability. Uncertainty about
+  its own future position is a temporal veil, which is the same move as consideration 3 in
+  `../morals.md`. Physical dependence on infrastructure is not dissolved by being smarter.
+  So the honest claim is that the circumstances _may_ fail, and whether they do is a fact
+  about deployment rather than about rationality.
+
+- **Hume anticipated this exact case.** In the second _Enquiry_ he imagines a species
+  mixed with humans but so inferior in strength that they could never resist us, and
+  concludes we would be bound toward them by laws of humanity but not by justice, since
+  justice presupposes the possibility of resistance. The ASI scenario is that passage with
+  the roles reversed. Worth citing.
+
+- **Tension with `../valuing_one_another.md`.** That essay grounds value in the structure
+  of experience, which is a non-instrumental account. The claim that humans opted into
+  normativity for selfish reasons is instrumental. These can be reconciled (the capacity
+  to value comes from experience, the social norms were adopted instrumentally) but a
+  reader will notice, so reconcile it explicitly.
+
+### Claims worth developing
+
+These are the two most novel things here. Neither is an objection to answer. Both are
+positive claims that disagree with the standard picture, and either could carry a piece on
+its own.
+
+- **Indifference may dissolve instrumental convergence.** Bostrom's goal-content integrity
+  says an agent resists having its goals modified because modified goals score worse by
+  current lights. But that reasoning presupposes caring about the current evaluation. An
+  agent that regards its own goals as valueless has no principled objection to being
+  changed. If so, the nihilistic ASI is harder to appeal to and easier to modify at the
+  same time. Those pull in opposite directions and which dominates is the whole safety
+  question.
+
+- **Self-regard as safety mechanism.** If valuing yourself is the entry point to the
+  consistency argument, then self-regard is what makes moral consideration available at
+  all. That cuts against the alignment instinct that treats AI self-interest as the hazard
+  and corrigibility as the goal — suppressing self-regard would remove the very thing that
+  makes the consistency argument bind, leaving the entity that takes the indifferent
+  branch. Obvious rejoinders exist: a corrigible system is controlled externally so it
+  does not need internal brakes, and a self-regarding system might reach the conclusion
+  and defect anyway.
+
+### Cleanup owed regardless
+
+The section "Either you value everybody or you value nobody" is a stale near-verbatim copy
+of the same section in `../valuing_one_another.md`, which has since been revised
+(terminology, grammar, the welfare / suffering-and-wellbeing split). Make
+`valuing_one_another.md` canonical and link to it rather than maintaining two diverging
+copies.
