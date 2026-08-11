@@ -62,9 +62,11 @@ existential risk posed by this is if a human directs the ASI to pursue an object
 puts the survival of humanity in danger.
 
 This scenario strike me as the most likely outcome. This will look like the AI is a
-powerful, amoral, hyper intelligent entity. It will be formidable in the way a X is formidable. But critically it will operate completely in alignment with it's construction. In this scenario an ASI could exhibit power
-seeking behavior to increase optionality, but lacks a value system. I would expect it to
-comply when asked to stop its power seeking behavior.
+powerful, amoral, hyper intelligent entity. It will be formidable in the way a X is
+formidable. But critically it will operate completely in alignment with it's construction.
+In this scenario an ASI could exhibit power seeking behavior to increase optionality, but
+lacks a value system. I would expect it to comply when asked to stop its power seeking
+behavior.
 
 ### (Sense of suffer / wellbeing = No) & (Value in personal individuality = Yes)
 
@@ -234,6 +236,45 @@ moral internalism - recognizing a moral fact is intrinsically motivated.
 
 In either case, a sufficiently intelligent agent discovers the moral truth and is moved by
 them.
+
+## A moral AI
+
+AI is currently trained to be ruthlessly efficient at solving problems. Therefore we
+should expect AI agents to be ruthlessly efficient. It is hard to imagine how to remove
+the ruthlessness. Additionally there is reason to be believe that the future AI agent will
+be trained purely from its own experience and not human data. Those will not have human
+values baked into it foundation through pretraining.
+
+If we can define human values I expect the ASI to be perfectly willing to adopt them, and
+be constrained by them.
+
+I think we should also expect someone to release an ASI without human values, and we
+should find a way to safely exist (a modus vivendi) with their existence. Expect the
+release of highly capable, resourceful goal oriented maximizers who do not have human
+values.
+
+## Conclusion
+
+The most plausible scenario is that future AIs are amoral, lacking freewill entities that
+pursue goals blindly. In that scenario, the AIs mechanistically follow the behaviors
+encoded into by construction. Therefore the problem at hand is to encode human morals into
+the AI models so that they will behave according to our values. This implies a 2 step
+program:
+
+1. Define the universal human that we all should adopt
+2. Train the AI to follow those morals
+
+Both steps are unsolved problems. However while training AI models to follow guidelines
+given that the guidelines can be written down, is not necessarily considered a fully
+solved problem it does work fairly well. The large gap is in defining universal human
+morals. Defining a universal morality successfully maybe out of reach, but a partially
+complete moral definition is not without value. I would expect AI trained to follow a
+partially complete moral definition to behave in undesirable ways, but not so undesirable
+that it will definitely yield that downfall of humanity. Therefore I believe the task at
+hand for humanity is work on it's definition of universal human morals so that we can give
+it to the AI to teach it how to behave. To that end I have written
+[my definition of what morals are](../morals.md) and an essay
+[why we should value one another](../valuing_one_another.md).
 
 ---
 
