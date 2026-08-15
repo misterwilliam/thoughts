@@ -1,4 +1,4 @@
-# Koans
+# Aphorisms
 
 - It's important to keep an open mind.
 - I try to always be nice.
