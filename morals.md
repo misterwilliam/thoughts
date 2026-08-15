@@ -210,6 +210,6 @@ situation where you could violate your morals without detection, you would not w
 because doing that would violate what you think is best for society, and you would not
 want that because you value other people. You value other people for the same reason you
 value yourself. You experience suffering and wellbeing, and that is what causes you to
-value yourself. And from sympathy from logical consistency this means that you value
-others as well. This is an argument I elaborate more clearly in
+value yourself. And from logical consistency this means that you value others as well.
+This is an argument I elaborate more clearly in
 [Why we should value one another](valuing_one_another.md).
