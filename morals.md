@@ -1,4 +1,4 @@
-# Morals
+# What are morals?
 
 Morals are people’s (strongly felt) opinions about the best way to organize society. By
 this I mean that morals are not objective truths that are part of the nature of the
