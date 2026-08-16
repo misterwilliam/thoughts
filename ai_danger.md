@@ -13,7 +13,7 @@ distinguishing between whether:
 1. X is bad.
 2. Getting detected doing X is bad.
 
-In this scenario there isn't an inherent reason for doing X, so mostly likely an AI agent
+In this scenario there isn't an inherent reason for doing X, so most likely an AI agent
 trained under this policy selection pressure would just stop doing X. However if the
 reward function rewards X for other reasons except when caught then there is policy
 selection pressure towards doing X in undetectable ways.
@@ -29,16 +29,17 @@ the policy selection pressure guides towards undetected stealing.
 
 If AI agents are not capable of accomplishing undetected stealing they will avoid
 stealing, so it will give the appearance that our efforts to constrain AI agents are
-successful. However when the AI agent become more capable, and can accomplish undetectable
-stealing the policy selection pressure suddenly shifts perhaps revealing a very strong
-previously contained bias towards stealing behavior. By the time that humanity realizes
-this outcome it will be too late because the AI agents have been engaging in undetected
-stealing for a considerable period of time, and impact on society is catastrophic.
+successful. However when the AI agent becomes more capable, and can accomplish
+undetectable stealing the policy selection pressure suddenly shifts perhaps revealing a
+very strong previously contained bias towards stealing behavior. By the time that humanity
+realizes this outcome it will be too late because the AI agents have been engaging in
+undetected stealing for a considerable period of time, and the impact on society is
+catastrophic.
 
 This is an argument similar to what others have made before such as by Bostrom in
-Superintelligence (2014). However my argument explicitly brings up how the bad behavior is
-rewarded when undetected by the AI training loop. This is a distinction that really helps
-the argument land for me.
+Superintelligence (2014). However argument I am making here explicitly brings up how the
+bad behavior is rewarded when undetected by the AI training loop. This is a distinction
+that really helps the argument land for me.
 
 ## Concrete application for today
 
@@ -60,8 +61,8 @@ give an LLM unrestricted access to the internet with the instructions to do ethi
 computer security research. Given current AI safety techniques this is inadvisable, but we
 are seeing that people are trying to do computer security research and attempting to
 securely restrict the internet from the LLMs but failing. Therefore a concrete and
-presently useful area of research would be find techniques that would allow having an LLM
-do computer security research even if it's internet access was not restricted.
+presently useful area of research would be to find techniques that would allow having an
+LLM do computer security research even if it's internet access was not restricted.
 
 ## What I think is promising
 
@@ -71,5 +72,5 @@ the most promising approach is to teach the AI ethics because then the policy se
 pressure during training would push the AI towards not doing bad behavior and not just
 merely trying to avoid getting caught. A significant obstacle for moving forward with this
 technique is that we don't have a clear definition of ethics. That is why I devote so much
-of git repo to the discussion of morals. If you are interested in a further discussion on
-this topic, I invite you to read my essay on [What are morals?](morals.md)
+of this git repo to the discussion of morals. If you are interested in a further
+discussion on this topic, I invite you to read my essay on [What are morals?](morals.md)
