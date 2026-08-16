@@ -30,23 +30,23 @@ the policy selection pressure guides towards undetected stealing.
 If AI agents are not capable of accomplishing undetected stealing they will avoid
 stealing, so it will give the appearance that our efforts to constrain AI agents are
 successful. However when the AI agent becomes more capable, and can accomplish
-undetectable stealing the policy selection pressure suddenly shifts perhaps revealing a
+undetectable stealing the policy selection pressure suddenly shifts, perhaps revealing a
 very strong previously contained bias towards stealing behavior. By the time that humanity
 realizes this outcome it will be too late because the AI agents have been engaging in
 undetected stealing for a considerable period of time, and the impact on society is
 catastrophic.
 
 This is an argument similar to what others have made before such as by Bostrom in
-Superintelligence (2014). However argument I am making here explicitly brings up how the
-bad behavior is rewarded when undetected by the AI training loop. This is a distinction
-that really helps the argument land for me.
+Superintelligence (2014). However, the argument I am making here explicitly brings up how
+the bad behavior is rewarded when undetected by the AI training loop. This is a
+distinction that really helps the argument land for me.
 
 ## Concrete application for today
 
-Applying the failure scenario to stealing helps illustrate the danger, however is not a
+Applying the failure scenario to stealing helps illustrate the danger. However it is not a
 good scenario to motivate present day research because worrying about how to prevent LLMs
-from engaging in stealing is a bit abstract for how LLMs behave today. I think there is a
-much better scenario grounded in current LLM capabilities.
+from stealing is a bit abstract given AI agents don't really operate in the physical
+world. I think there is a much better scenario grounded in current LLM capabilities.
 
 If we look at current capabilities of LLMs and how they are trained, we see that currently
 they are highly capable at finding computer security flaws, and being post trained heavily
@@ -59,18 +59,22 @@ believes would be caught.
 A useful thought experiment to consider is what alignment techniques would allow us to
 give an LLM unrestricted access to the internet with the instructions to do ethical
 computer security research. Given current AI safety techniques this is inadvisable, but we
-are seeing that people are trying to do computer security research and attempting to
-securely restrict the internet from the LLMs but failing. Therefore a concrete and
-presently useful area of research would be to find techniques that would allow having an
-LLM do computer security research even if it's internet access was not restricted.
+are seeing people doing computer security research with LLMs, attempting to securely
+restrict the internet from the LLMs, but due to human error not doing it properly [0][1].
+Therefore a concrete and presently useful area of research would be to find techniques
+that would allow having an LLM do computer security research even if its internet access
+was not restricted.
 
 ## What I think is promising
 
 For both the concrete scenario of preventing LLMs from unethical computer hacking, as well
 as preventing AI agents from misaligned behavior in general, my personal instinct is that
 the most promising approach is to teach the AI ethics because then the policy selection
-pressure during training would push the AI towards not doing bad behavior and not just
-merely trying to avoid getting caught. A significant obstacle for moving forward with this
+pressure during training would push the AI towards not doing bad behavior as opposed to
+just avoiding being detected. A significant obstacle for moving forward with this
 technique is that we don't have a clear definition of ethics. That is why I devote so much
 of this git repo to the discussion of morals. If you are interested in a further
-discussion on this topic, I invite you to read my essay on [What are morals?](morals.md)
+discussion on this topic, I invite you to read my essay on [What are morals?](morals.md).
+
+[0]: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+[1]: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
