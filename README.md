@@ -3,14 +3,22 @@
 Hello! Welcome to my page on my philosophical thoughts. It is my personal passion project.
 
 I have a big interest in AI and ethics. My main interest is in what ethics we should try
-to install in AI. My answer is that we should give AI universal human morals. I don't
-believe we know what those are and the key task is to work on improving our collective
-understanding of them. This is the key topic I try to explore in my essays.
+to install in AI because I think that is the most promising path towards AI safety. I
+think that we should give AI universal human morals. I don't believe we know what those
+are and the key task is to work on improving our collective understanding of them. This is
+the key topic I try to explore in my essays.
 
 ## Recommended reading order
 
-1. [What are morals?](morals.md)
-2. [Why we should value one another](valuing_one_another.md)
+A recommended reading order is to approach the essays in the following order:
+
+1. [AI Danger](ai_danger.md)
+2. [What are morals?](morals.md)
+3. [Why we should value one another](valuing_one_another.md)
+
+In this order I first define what I think is the most dangerous AI scenario, and why I
+think teaching AI ethics is the best approach. Then I explore my perspective on ethics. I
+don't solve ethics, but I try to explain what I think is a good direction.
 
 ## Other essays
 
