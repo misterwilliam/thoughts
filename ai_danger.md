@@ -18,7 +18,8 @@ would be trained to stop doing X because training loops have a tendency towards
 simplicity. And stopping doing X is simpler than devoting model weights to construct
 clever methods of avoiding detection. However if the reward function rewards X for other
 reasons except when caught then there is a policy selection pressure towards doing X in
-undetectable ways.
+undetectable ways. As AI progresses, it will become more capable at doing X in undetected
+ways, leading to widespread undetected X.
 
 To give a more concrete example, let's suppose that when an agent is trained it gets
 feedback that stealing is bad. The policy selection pressure can either be:
@@ -32,35 +33,32 @@ will be a policy selection pressure that optimizes towards undetected stealing.
 If AI agents are not intelligent enough to be capable of accomplishing undetected stealing
 they will avoid stealing, so it will give the appearance that our efforts to constrain AI
 agents are successful. However when the AI agent becomes more capable, and can accomplish
-undetectable stealing the policy selection pressure suddenly shifts, perhaps revealing a
-very strong previously contained bias towards stealing behavior. By the time that humanity
-realizes this outcome it will be too late because the AI agents have been engaging in
-undetected stealing for a considerable period of time, and the impact on society is
-catastrophic.
+undetectable stealing, the selected policy suddenly shifts towards stealing. By the time
+humanity has realized the problem all property has transferred to the ownership of the AI.
 
-This is an argument similar to what others have made before such as by Bostrom in
-Superintelligence (2014). It is also similar to a commonly understood phenomenon that if
-your model training is optimizing a reward function that doesn't fully capture what you
-want to reward, it can produce a model that optimizes towards a highly undesirable
-degenerate corner case behavior. The argument as I have framed lands much better for me
-because it not only provides an argument for why an undesirable behavior is likely, it
-also describes the mechanism. The mechanism being that if you train a model in an
-environment where doing an undesirable behavior in an undetected way is rewarded, then you
-will end up training a model that is good at doing the undesirable behavior in an
-undetected way. Furthermore, the example of stealing provides an easy-to-understand
-concrete example.
+I much prefer this framing of the risk of AI progress on humanity because it:
+
+1. Explicitly describes a mechanism in which AI training loops will drive towards
+   undesirable behavior (ie training regimes which reward undetected undesirable
+   behavior).
+2. Describes why this outcome is difficult to prevent. (Increasing detection of bad
+   behavior doesn't sound like a workable solution as AI capability scales beyond human
+   comprehension.)
 
 To be clear, I am not claiming my framing of the debate is a unique invention to me.
 Perhaps in service to nobody but me, I am just pointing out a framing that I particularly
-like.
+like. This is an argument similar to what others have made before such as by Bostrom in
+Superintelligence (2014). He describes how a highly capable AI will develop **instrumental
+goals** such as self-preservation, goal-content integrity, cognitive enhancement, and
+resource acquisition. Then as the AI becomes more capable it creates a **control problem**
+because it will escape humanity's ability to correct or shut it down.
 
-This concern is more relevant today with the rise of RLVR. If you want to train a model
-that behaves ethically and a substantial part of the training of the model is with an
-amoral reward function that rewards task completion such as what is done commonly with
-RLVR, you should expect to create a model that has a tendency to complete tasks in an
-amoral way. This is not to say that the AI labs are training their LLMs with no ethical
-training, but that the RLVR training has the potential to create a policy selection
-pressure that significantly undermines the ethical training.
+This concern is more relevant today with the rise of RLVR, because this is a training
+regime which rewards task completion without concern for ethics. This creates policy
+selection pressure for models to efficiently accomplish tasks in an amoral way. This is
+not to say that the AI labs are training their LLMs with no ethical training, but that the
+RLVR training has the potential to create a policy selection pressure that significantly
+undermines the ethical training.
 
 ## Concrete application for today
 
