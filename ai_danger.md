@@ -50,15 +50,17 @@ will end up training a model that is good at doing the undesirable behavior in a
 undetected way. Furthermore, the example of stealing provides an easy-to-understand
 concrete example.
 
-Another framing that I would find easily understandable is that if you want to train a
-model that behaves ethically and a substantial part of the training of the model is with
-an amoral reward function that rewards task completion such as what is done commonly with
-RLVR, you should expect to create a model that has a tendency to complete tasks in an
-amoral way.
-
 To be clear, I am not claiming my framing of the debate is a unique invention to me.
 Perhaps in service to nobody but me, I am just pointing out a framing that I particularly
 like.
+
+This concern is more relevant today with the rise of RLVR. If you want to train a model
+that behaves ethically and a substantial part of the training of the model is with an
+amoral reward function that rewards task completion such as what is done commonly with
+RLVR, you should expect to create a model that has a tendency to complete tasks in an
+amoral way. This is not to say that the AI labs are training their LLMs with no ethical
+training, but that the RLVR training has the potential to create a policy selection
+pressure that significantly undermines the ethical training.
 
 ## Concrete application for today
 
