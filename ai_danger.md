@@ -86,14 +86,56 @@ was not restricted.
 
 ## What I think is promising
 
-For both the concrete scenario of preventing LLMs from unethical computer hacking, as well
-as preventing AI agents from misaligned behavior in general, my personal instinct is that
-the most promising approach is to teach the AI ethics because then the policy selection
-pressure during training would push the AI towards not doing bad behavior as opposed to
-just avoiding being detected. A significant obstacle for moving forward with this
-technique is that we don't have a clear definition of ethics. That is why I devote so much
-of this git repo to the discussion of morals. If you are interested in a further
-discussion on this topic, I invite you to read my essay on [What are morals?](morals.md).
+In my mind there are two distinct reasons for emphasizing improving our ability to teach
+AI ethics: one that makes sense even if we aren't concerned about existential danger, and
+one that directly addresses a training loop that inadvertently rewards deceptive behavior
+which I mentioned as the primary failure scenario that raises my concern.
+
+Even without worrying about the existential risk of AI agents escaping human control it
+just makes sense that if you have capable AI agents performing complicated tasks with weak
+levels of monitoring, you don't want an incompletely specified ethical standard. Therefore
+there is a concern that as AI becomes more capable, our ability to agree and articulate
+our ethical standards is not sufficient to guide AI behavior. If we train an AI to perform
+tasks with an incompletely specified moral standard, we should expect the AI to be good at
+performing tasks to that incompletely specified moral standard. I question whether our
+collective ability to articulate our moral standards is advancing sufficiently to keep
+pace with LLM capability development. Therefore improving upon humanity's collective
+understanding and articulation of ethics should be something we focus on.
+
+However I am not just concerned about AI safety issues that arise from our incompletely
+articulated moral system. I am concerned about training loops inadvertently creating
+deceptive AI agents. To review, if during training, we give the policy selection optimizer
+feedback that acting unethically is bad it has a hard time distinguishing between:
+
+1. Being unethical is bad
+2. Getting caught being unethical is bad.
+
+If we train the AI agent in an environment that rewards unethical behavior when undetected
+we will end up training models that attempt to hide their unethical behavior. And as AI
+progresses beyond human capabilities we will end up creating AI with superhuman ability to
+behave unethically and keep it hidden. Therefore the key problem to solve is creating a
+reward function that does not reward undetected unethical behavior.
+
+Perhaps if we do RLVR on LLMs on tasks that are verifiable and have ethical components we
+incorporate ethics into the reward function. For example we can do RLVR on computer
+security related tasks. Instead of rewarding the LLM on task completion, we reward on
+ethical task completion and penalize for unethical behavior. Since we want the detection
+of unethical behavior to keep pace with the model capability we can use AI to judge ethics
+of the model being trained (ie _scalable oversight_). Using LLMs to monitor other LLMs
+during RL training is an idea explored by OpenAI in "Monitoring Reasoning Models for
+Misbehavior and the Risks of Promoting Obfuscation"[2]. They find that even weaker models
+can be effectively used to monitor chain of thought reasoning traces to detect reward
+hacking. However they find that multiple iterations of training under this regime promote
+obfuscation in the reasoning traces that decreases the ability of the monitor to detect
+reward hacking. This is a concerning result because increasing a model's ability to
+obfuscate its reward hacking is the exact opposite of what we want.
+
+To bias the training away from producing deception, perhaps we can require the model to
+provide an explanation of the relevant ethics to its behavior and reward for providing
+good explanations. I'm not pretending that my explanation doesn't leave many unanswered
+questions. However I don't want to leave the conversation without at least suggesting a
+sketch of a possible solution.
 
 [0]: https://openai.com/index/hugging-face-model-evaluation-security-incident/
 [1]: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+[2]: https://arxiv.org/abs/2503.11926
