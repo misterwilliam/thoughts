@@ -1,9 +1,9 @@
 # AI Danger
 
-There are a variety of arguments for why AI progress is dangerous. Most of them do not
-really land for me. However there is an argument that I do find compelling which I don't
-frequently hear framed the way I prefer. So I would like to explain that argument as well
-as what I think is humanity's best response.
+There are a variety of arguments for why AI progress is dangerous, most of which do not
+really land for me. However there is one I do find compelling which I don't frequently
+hear. So I would like to explain that argument as well as what I think is humanity's best
+response to this threat.
 
 ## How things can go wrong
 
@@ -45,13 +45,14 @@ I much prefer this framing of the risk of AI progress on humanity because it:
    behavior doesn't sound like a workable solution as AI capability scales beyond human
    comprehension.)
 
-To be clear, I am not claiming my framing of the debate is a unique invention to me.
-Perhaps in service to nobody but me, I am just pointing out a framing that I particularly
-like. This is an argument similar to what others have made before such as by Bostrom in
+This is an argument similar to what others have made before such as by Bostrom in
 Superintelligence (2014). He describes how a highly capable AI will develop **instrumental
 goals** such as self-preservation, goal-content integrity, cognitive enhancement, and
-resource acquisition. Then as the AI becomes more capable it creates a **control problem**
-because it will escape humanity's ability to correct or shut it down.
+resource acquisition. Then when directed towards an otherwise harmless-seeming goal, these
+instrumental goals will cause the AI to become difficult to control and in turn dangerous.
+However I am focusing on the creation of instrumental goals not as a rational conclusion
+of pursuing a larger goal, but as an artifact of outcome-oriented (post-)training of AI
+models.
 
 This concern is more relevant today with the rise of RLVR, because this is a training
 regime which rewards task completion without concern for ethics. This creates policy
